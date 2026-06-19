@@ -97,7 +97,11 @@ Las normas imperativas no admiten acuerdo en contrario y solo se pueden modifica
 
 Las obligaciones erga omnes son aquellas que el Estado asume frente a la comunidad internacional en su conjunto. Ej: proscripcion de actos de genocidio, proteccion de la esclavitud. Todos los Estados tienen un interés jurídico en su protección y pueden reclamar ante su incumplimiento. Sin embargo, para esto último todos los países tienen que aceptar la jurisdicción del tribunal.
 
-10. ¿Cuál sería un ejemplo de acto unilateral del Estado en sentido estricto y cuál sería su definición?
+10. ¿Cuál sería un ejemplo de acto unilateral del Estado en sentido estricto y cuál sería su definición? (Cap 11\)
+
+**Definición**: Es una manifestación de voluntad autónoma de uno o más sujetos de derecho internacional (Estados) con capacidad suficiente, no vinculada a un acto convencional, tendiente a crear efectos jurídicos o reglas de derecho. (No vinculada a algo como protesta para impedir una costumbre que eso obviamente es un acto unilateral que importa al DI).
+
+**Ejemplo**: La Promesa, como las declaraciones de Francia en el caso de los Ensayos Nucleares, donde se comprometió públicamente a cesar sus pruebas atmosféricas, creando una obligación jurídica sin necesidad de aceptación de otros Estados.
 
 11. ¿Cuál es la diferencia entre equidad infra legem, praeter legem y contra legem? (Cap 10\)
 
@@ -107,5 +111,9 @@ La equidad puede:
 - Complementarla (praeter legem): “cuando no exista una norma jurídica sobre una cuestión determinada \[...\] la equidad constituye una guía”  
 - Sustituirla (contra legem): permite al juez descartar el derecho positivo para buscar una solución justa con el acuerdo previo de las partes.
 
-12. ¿Cuál es la diferencia entre principios generales de derecho y principios de derecho internacional?
+12. ¿Cuál es la diferencia entre principios generales de derecho y principios de derecho internacional? (Cap 9\)
+
+Principios generales de derecho: Son postulados máximos que se encuentran en todos los ordenamientos jurídicos nacionales y que son trasladados al ámbito internacional. Ejemplos: buena fe, nadie puede ser juez en su causa, no se puede ser condenado dos veces por lo mismo.
+
+Principios de derecho internacional: Son reglas fundamentales propias del sistema internacional que no necesariamente tienen un origen en el derecho interno. Ejemplos: la soberanía estatal, la no intervención, libertad de los mares.
 
