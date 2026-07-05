@@ -125,7 +125,7 @@ Principios de derecho internacional: Son reglas fundamentales propias del sistem
 
 **Clase 3: Tratados**
 
-CONCEPTO Y CLASES DE TRATADOS \- ALCANCE DE LA CONVENCIÓN DE VIENA DE 1969
+### CONCEPTO Y CLASES DE TRATADOS \- ALCANCE DE LA CONVENCIÓN DE VIENA DE 1969
 
 1. ¿A qué tipo de tratados se aplica la C.V.? ¿Qué acuerdos no están regidos por la C.V.?
 
@@ -151,11 +151,12 @@ Se define como un acuerdo internacional celebrado por escrito entre Estados y re
 * La Convención de Viena sobre el Derecho de los Tratados entre Estados y Organizaciones Internacionales o entre Organizaciones Internacionales de 1986\.  
 * La Convención de Viena sobre Sucesión de Estados en Materia de Tratados de 1978\.
 
-CELEBRACIÓN DE LOS TRATADOS 
+### CELEBRACIÓN DE LOS TRATADOS 
 
 1. ¿A qué sujeto de D.I. reconoce la C.V. capacidad para celebrar tratados? ¿Significa ello que el resto de los sujetos de D.I. no tienen esta capacidad? (Justifique).
 
-La C.V. reconoce expresamente que todo Estado tiene capacidad para celebrar tratados. Esto no significa que otros sujetos carezcan de ella; la propia Convención aclara en su artículo 3 que su alcance restringido a los Estados no afecta el valor jurídico de acuerdos celebrados por otros sujetos de derecho internacional (como las organizaciones internacionales). De hecho, existe la Convención de Viena de 1986 que regula específicamente los tratados con o entre organizaciones internacionales. Otros sujetos como la Santa Sede o movimientos de liberación nacional también poseen esta capacidad según el derecho internacional general.
+La C.V. reconoce que todos los Estados pueden celebrar tratados.  
+Esto no significa que otros sujetos carezcan de ella; la propia Convención aclara en su artículo 3 que su alcance restringido a los Estados no afecta el valor jurídico de acuerdos celebrados por otros sujetos de derecho internacional (como las organizaciones internacionales).
 
 2. ¿Quiénes pueden participar en el proceso de celebración de los tratados representando a un Estado? ¿Qué funcionarios pueden hacerlo sin necesidad de presentar plenos poderes (indique hasta qué etapa pueden actuar en tal sentido)?
 
@@ -291,7 +292,7 @@ Se aplican desde el momento de la adopción del texto las disposiciones que regu
 * Las reservas.  
 * Las funciones del depositario y otras cuestiones que se susciten necesariamente antes de la entrada en vigor.
 
-RESERVAS
+### RESERVAS
 
 1. Defina reserva.
 
@@ -371,3 +372,261 @@ Las aceptaciones tienen carácter definitivo y la C.V. no prevé expresamente su
 17. ¿Pueden retirarse las objeciones de las reservas? (En caso afirmativo ¿se requiere de la conformidad de algún Estado u órgano?)
 
 Pueden ser retiradas en cualquier momento. No se requiere la conformidad de nadie.
+
+### OBSERVANCIA Y ÁMBITO DE APLICACIÓN DE LOS TRATADOS
+
+1\. ¿Qué principio general del derecho debe observarse durante la aplicación de un tratado?   
+Pacta Sunt Servanda y buena fe.
+
+2\. ¿Qué dispone la C.V. respecto de su relación jerárquica con las normas del ordenamiento interno de los Estados? ¿Cuál es el principio general y cuál la excepción?    
+**Principio general**: Un Estado parte no podrá invocar las disposiciones de su derecho interno como justificación del incumplimiento de un tratado.  
+**Excepción**: Se encuentra en el artículo 46 de la C.V., que permite alegar la violación de una norma de derecho interno únicamente si dicha violación es manifiesta (objetivamente evidente para cualquier Estado que proceda de buena fe) y afecta a una norma de importancia fundamental relativa a la competencia para celebrar tratados
+
+3\. ¿Cuál es el principio establecido por la C.V. respecto de la aplicación temporal de los tratados y cuál es su excepción?  
+**Irretroactividad de los tratados**. Las disposiciones de un tratado no obligarán a una parte respecto de ningún acto o hecho que haya tenido lugar con anterioridad a la fecha de entrada en vigor del tratado.  
+**Excepción**: Que se pacte de otra manera.
+
+4\. ¿Cuál es el principio establecido por la C.V. respecto de la aplicación espacial de los tratados y cuál es su excepción?  
+Se aplican a todo el territorio, salvo que se pacte lo contrario.
+
+5\. Si un tratado no contiene una cláusula colonial que disponga respecto de su aplicación a los territorios coloniales o no autónomos administrados por los Estados contratantes ¿se aplica automáticamente dicho tratado a los territorios coloniales o no autónomos o se requiere una declaración al respecto? (Explique qué opiniones doctrinarias existen al respecto).  
+Doctrina:
+
+* Práctica histórica: Durante el siglo XX, no hubo uniformidad. UK extendía a sus colonias pero Francia no.  
+* Opinión actual: Debido a la resolución de la Asamblea General de la ONU de 1970, que establece que los territorios no autónomos poseen una condición jurídica distinta y separada de la del Estado que los administra, la doctrina mayoritaria considera que un tratado no debería aplicarse automáticamente a dichas colonias, requiriendo una declaración o cláusula expresa para ello.
+
+6\. ¿Qué sucede si un tratado es parte de dos tratados concernientes a la misma materia (uno anterior y otro posterior)? Distinga el caso de que ambos tratados rijan entre los mismos Estados o que uno de ellos (o ambos) rija asimismo para otros Estados.  
+Mismos Estados: rige el posterior.  
+Distintos Estados: Si ambos Estados están en el nuevo rige el nuevo, si un Estado es parte y el otro no, rige en el que estén ambos.
+
+7\. ¿Qué sucede si la Carta de las Naciones Unidas establece una obligación distinta de la que establece otro tratado anterior del cual es parte un Estado miembro de la ONU, cuál deberá respetar? ¿Y si el tratado es posterior a la Carta de la ONU?  
+Prima la Carta de la ONU, no importa si es anterior o posterior.
+
+### 
+
+### 
+
+### INTERPRETACIÓN
+
+1\. ¿Qué se entiende por interpretación de los tratados?  
+Interpretar un tratado significa desentrañar o dar una definición precisa del sentido y alcance de dicho instrumento jurídico.
+
+2\. ¿Cómo deben interpretarse los tratados de acuerdo con la C.V.?  
+(Art 31.1) “Un tratado deberá interpretarse de (1) buena fe (2) conforme al sentido corriente que haya de atribuirse a los términos del tratado (3) en el contexto de estos y (4) teniendo en cuenta su objeto y fin.”
+
+3\. ¿Cuáles son los métodos de interpretación auténticos?  
+Son aquellos elementos que reflejan el acuerdo de las partes sobre el sentido del tratado, ya sea al momento de su celebración o con posterioridad. Estos incluyen el texto (con su contexto), los acuerdos ulteriores y la práctica ulterior.
+
+4\. Según la C.V. ¿Qué abarca el “contexto” de los tratados?  
+(Art 31.2)
+
+* texto, incluidos su preámbulo y anexos  
+* todo acuerdo que se refiera al tratado y haya sido concertado entre todas las partes con motivo de la celebración del tratado  
+* Todo instrumento formulado por una o más partes con motivo de la celebración del tratado y aceptado por las demás como instrumento referente al tratado.
+
+5\. Qué instrumentos o actos –que no integran el contexto- deben tenerse en cuenta para la interpretación auténtica?  
+(Art 31.3)
+
+* todo acuerdo ulterior entre las partes acerca de la interpretación del tratado o de la aplicación de sus disposiciones  
+* toda práctica ulteriormente seguida en la aplicación del tratado por la cual conste el acuerdo de las partes acerca de la interpretación del tratado  
+* Toda norma pertinente de derecho internacional aplicable en las relaciones entre las partes.
+
+6\. Cuáles son los métodos de interpretación complementarios? En qué casos se puede acudir a ellos?  
+(Art 32\) Son los trabajos preparatorios del tratado y las circunstancias de su celebración.  
+Se puede acudir a ellos para Confirmar el sentido ó Determinar el sentido cuando la interpretación dada por el artículo 31 deje el sentido ambiguo u oscuro.
+
+7\. ¿En qué consiste el método teleológico? En qué artículo e inciso de la C.V. se hace referencia a él?  
+Consiste en interpretar el tratado basándose en su objeto y fin. Se hace referencia a él en el artículo 31, inciso 1 de la C.V.
+
+8\. ¿A qué se denomina principio del “efecto útil”? En qué artículo e inciso de la C.V. se hace referencia a él?  
+Un tratado debe interpretarse de manera que no sean privadas de sentido o efecto, permitiendo que surtan los efectos adecuados.  
+Aunque no se menciona explícitamente por nombre, la doctrina considera que está incorporado en la regla general del artículo 31, inciso 1\.
+
+9\. En qué consiste el método “subjetivo” de interpretación? En qué artículo e inciso de la C.V. se hace referencia a él?  
+Se basa en la intención real de las partes al momento de celebrar el tratado. Se encuentra previsto en el artículo 31, inciso 4, que dispone que se dará a un término un sentido especial si consta que tal fue la intención de las partes
+
+10\. ¿Qué es una “declaración interpretativa”? ¿En qué se diferencia de una “reserva”? ¿Qué párrafo e inciso del artículo 31 se refiere a las declaraciones interpretativas?  
+Definición: Es una declaración unilateral hecha por un Estado para precisar o aclarar el sentido o el alcance de un tratado o de sus disposiciones.  
+Diferencia con reserva: La reserva tiene por objeto excluir o modificar los efectos jurídicos de ciertas disposiciones, mientras que la declaración interpretativa solo busca aclararlas.  
+Referencia en el Art. 31: La C.V. no utiliza el término, pero pueden integrar el contexto bajo el párrafo 2, inciso b si son aceptadas por las demás partes como instrumentos referentes al tratado.
+
+11\. ¿Qué diferencia hay entre los acuerdos a los que se refiere el art. 31 en su inc. 2.a y los acuerdos aludidos en el inciso 3.a –además del hecho de que unos integran el contexto y los otros no-?  
+La diferencia principal, además de su ubicación técnica, es el momento de su realización: Los del Art. 31.2.a son acuerdos concertados con motivo de la celebración del tratado, mientras que los del Art. 31.3.a son acuerdos ulteriores, es decir, posteriores a la celebración del tratado.
+
+12\. ¿Qué diferencia hay entre una “versión” del tratado en idioma distinto del autenticado y el texto autenticado?  
+El texto autenticado es aquel en el idioma o idiomas que el tratado establece como fehacientes. Una “versión” en un idioma distinto sólo será considerada auténtica si el tratado así lo dispone o las partes lo convienen; de lo contrario, no tiene el mismo valor jurídico que el texto autenticado.
+
+13\. ¿Qué sucede si un tratado ha sido autenticado en varios idiomas? Cuál de ellos prevalece en caso de que se presenten contradicciones?  
+Tienen el mismo valor en todos los idiomas. Solo prevalecerá un texto determinado sobre los demás si el propio tratado así lo dispone o las partes lo convienen en caso de discrepancia.
+
+14\. Qué dice la C.V. en cuanto a la interpretación de textos igualmente auténticos en distintos idiomas en los que haya una diferencia de sentido en alguna de sus disposiciones?  
+Según el artículo 33.3 y 33.4:
+
+* Se presumirá que los términos tienen igual sentido en cada texto auténtico.  
+* Si la comparación revela una diferencia de sentido que las reglas de los artículos 31 y 32 no pueden resolver, se adoptará el sentido que mejor concilie esos textos, habida cuenta del objeto y fin del tratado
+
+### TRATADOS Y TERCEROS ESTADOS
+
+1\. ¿Qué se entiende por “tercer Estado” según la C.V.?  
+Un Estado que no es parte en el tratado.
+
+2\. Cuál es el principio general que establece la C.V. respecto de los terceros Estados?  
+El principio general es que un tratado no crea obligaciones ni derechos para un tercer Estado sin su consentimiento.
+
+3\. Qué requisitos deben darse según la C.V. para que un tratado otorgue derechos a terceros Estados?  ¿Cómo podrán revocarse tales derechos?  
+Requisitos: 1\) Que las partes del tratado tengan la intención de conferir ese derecho al tercer Estado, a un grupo de Estados en el cual pertenece; 2\) Que el tercer Estado dé su consentimiento a ello.  
+Revocación: tal derecho no podrá ser revocado ni modificado por las partes (si consta que se tuvo la intención) sin el consentimiento del tercer Estado.
+
+4\. Qué requisitos deben darse según la C.V. para que un tratado imponga obligaciones a terceros Estados? ¿Cómo podrán revocarse tales obligaciones?  
+Requisitos: 1\) Que las partes en el tratado tengan la intención de que tal disposición sea el medio de crear la obligación; 2\) Que el tercer Estado acepte expresamente por escrito esa obligación.  
+Revocación: Se necesita el consentimiento de las partes en el tratado y del tercer Estado, salvo que se hubiere convenido otra cosa al respecto.
+
+### ENMIENDA Y MODIFICACIÓN
+
+1\. Distinga entre enmienda y modificación de los tratados.  
+Enmienda: Cambiar el tratado y todas las partes participan.  
+Modificación: Cambiar el tratado entre algunas de sus partes y las relaciones entre si.
+
+2\. ¿Cuál es el proceso para enmendar un tratado? ¿quiénes tienen derecho de participar en la enmienda?
+
+* Proceso: Se rige primordialmente por el acuerdo entre las partes y, supletoriamente, por las reglas generales de celebración de tratados.  
+* Derecho de participación: todos los Estados contratantes.
+
+3\. ¿Qué es necesario para que un Estado esté obligado por la enmienda de un tratado?  
+Es necesario que el Estado manifieste su consentimiento en obligarse específicamente por el acuerdo de enmienda.
+
+4\. ¿Las enmiendas son oponibles a todos los Estados partes de ese tratado?  
+No, solo a los que consintieron.
+
+5\. ¿Qué sucede si un tercer Estado se adhiere a un tratado enmendado? ¿Qué relación va a tener con cada uno de los Estados partes del tratado enmendado y sin enmendar?    
+De no manifestar una intención diferente, el Estado será considerado:  
+a) Parte en el tratado en su forma enmendada; y  
+b) Parte en el tratado no enmendado con respecto a toda parte que no esté obligada por el acuerdo de enmienda
+
+6\. ¿En qué supuestos un tratado es susceptible de ser “modificado”? ¿Qué requisitos establece la C.V.?  
+Se puede modificar cuando dos o más partes en un tratado multilateral desean celebrar un acuerdo para sus relaciones mutuas únicamente.   
+Requisitos: a) Que la posibilidad esté prevista en el tratado; o b) Que no esté prohibida en el tratado, siempre que no afecte el disfrute de los derechos o el cumplimiento de obligaciones de las demás partes, y no sea incompatible con la consecución efectiva del objeto y fin del tratado en su conjunto.  
+7\. ¿Cuál es el proceso para modificar un tratado?  
+Consiste en la celebración de un acuerdo restringido entre los Estados interesados. Requiere obligatoriamente la notificación previa a las demás partes.
+
+8\. ¿Qué obligaciones tienen los Estados que participan en la modificación tanto antes como después de dicho proceso?    
+Antes y durante: Tienen la obligación de notificar a las demás partes su intención de modificarlo y la modificación específica que se propone.  
+Después: Deben asegurarse de que la modificación no perjudique a terceros Estados partes ni comprometa la razón de ser del tratado original.
+
+9\. ¿Cuáles son las características de los acuerdos \*inter se\* incluidos en el art. 41 de la C.V.?   
+(Este artículo es el que habla de modificaciones del tratado, supongo que “acuerdos inter se \== modificaciones del tratado)
+
+* Son celebrados por un subgrupo de Estados de un tratado multilateral.  
+* Tienen efectos únicamente en sus relaciones mutuas.  
+* Son posteriores en el tiempo al tratado principal.  
+* No pueden afectar los derechos de las partes que no participan en ellos.  
+* Deben respetar la integridad del objeto y fin del tratado marco
+
+### NULIDAD Y TERMINACIÓN
+
+1\. Distinga entre nulidad y terminación de los tratados.  
+Nulidad: nunca valió.  
+Terminación: fue válido y se terminó.
+
+2\. Distinga entre nulidad absoluta y nulidad relativa.  
+Nulidad relativa (anulabilidad): Puede ser subsanada (saneada) por el acuerdo de las partes o la aquiescencia posterior. Solo puede ser alegada por el Estado víctima del vicio.  
+Nulidad absoluta: No admite saneamiento posterior y sus efectos son definitivos. Puede ser alegada por cualquier Estado interesado y debe ser declarada por un órgano competente
+
+3\. ¿Son taxativas las causales de nulidad, de terminación y de suspensión de los tratados contenidas en la C.V.?    
+Sí, son taxativas. Según el artículo 42, la validez de un tratado solo puede impugnarse mediante la C.V., y su terminación, denuncia, retiro o suspensión solo pueden tener lugar según las disposiciones del propio tratado o de la C.V.
+
+4\. ¿Qué requisitos deben darse para que se pueda alegar la “divisibilidad” de un tratado?  
+(Art 44\) Se puede alegar si la causa se refiere solo a cláusulas determinadas, siempre que: a) sean separables del resto en cuanto a su aplicación; b) su aceptación no haya sido una base esencial del consentimiento de las demás partes; y c) la continuación del cumplimiento del resto no sea injusta.
+
+5\. Cuáles son las causales de nulidad absoluta?
+
+* Coacción sobre el representante del Estado (Art. 51).  
+* Coacción sobre un Estado por la amenaza o el uso de la fuerza (Art. 52).  
+* Oposición a una norma imperativa de derecho internacional general (jus cogens) existente (Art. 53\)
+
+6\. Cuáles son las causales de nulidad relativa?
+
+* Violación de normas de derecho interno sobre competencia (Art. 46).  
+* Restricción específica de los poderes del representante (Art. 47).  
+* Error (Art. 48).  
+* Dolo (Art. 49).  
+* Corrupción del representante (Art. 50).
+
+7\. ¿Qué causales de terminación de los tratados establece la C.V.?  
+Incluyen: disposición del propio tratado, consentimiento de todas las partes, denuncia o retiro, celebración de un tratado posterior sobre la misma materia, violación grave, imposibilidad subsiguiente de cumplimiento, cambio fundamental de circunstancias y aparición de una nueva norma de jus cogens.
+
+8\. ¿Qué requisitos son necesarios para que se configure cada causal de nulidad o de terminación en particular previstas en la C.V.?  
+Resumen de lo anterior:
+
+* Error: Facto o situación que el Estado daba por supuesta y era base esencial del consentimiento.  
+* Dolo: Conducta fraudulenta de otro Estado negociador.  
+* Coacción sobre el Estado: Amenaza o uso de la fuerza en violación de la Carta de la ONU.  
+* Violación grave: Rechazo del tratado no admitido por la C.V. o violación de disposición esencial para el objeto y fin.  
+* Cambio de circunstancias: Imprevisible, sobre circunstancias que fueron base esencial del consentimiento y que modifican radicalmente el alcance de las obligaciones pendientes.
+
+9\. Qué diferencia hay entre los arts. 53 y 64 de la C.V. respecto de la oposición a una norma de \*jus cogens\*? ¿Por qué en un caso se lo considera como nulidad y en el otro la terminación del tratado?  
+Art. 53 (Nulidad): El tratado se opone a una norma de jus cogens ya existente al momento de celebrarse; es nulo desde el principio.  
+Art. 64 (Terminación): Surge una nueva norma de jus cogens; el tratado (antes válido) se convierte en nulo y termina desde ese momento, sin efectos retroactivos.
+
+10\. ¿A qué se denomina “denuncia” de un tratado? ¿A qué se denomina “retiro” de una de las Partes del tratado?
+
+* Denuncia: Declaración unilateral para abandonar el acuerdo; en tratados bilaterales causa su terminación.  
+* Retiro: Término aplicado a tratados multilaterales cuando una parte se separa, pero el tratado continúa para las demás
+
+11\. Qué sucede si un tratado nada dice acerca de la posibilidad de denuncia? ¿Es posible denunciarlo? Si existiera tal posibilidad, tendría efectos inmediatos?   
+No es posible a menos que conste que fue intención de las partes admitirla o se infiera de la naturaleza del tratado. Requiere notificación con al menos doce meses de antelación.
+
+12\. ¿Qué diferencia hay entre la terminación y la suspensión de un tratado?  
+
+* Terminación: Extinción definitiva.  
+* Suspensión: Inaplicabilidad temporal, se puede recuperar en el futuro
+
+13\. Qué establece el art. 58 respecto de la posibilidad de suspensión del tratado entre algunas Partes? A qué otro artículo de la C.V. se asemeja esta disposición?    
+Dos o más partes pueden suspender disposiciones inter se si el tratado lo permite o no está prohibido (siempre que no afecte a terceros ni al objeto y fin). Se asemeja al artículo 41 (modificación inter se).
+
+14\. A qué se denomina violación grave del tratado en el marco de la C.V.?  
+Es
+
+* un rechazo del tratado no admitido por la C.V.  
+* ó la violación de una disposición esencial para la consecución del objeto o del fin del tratado.
+
+15\. En qué supuestos y qué Partes podrán alegar la violación grave de un tratado bilateral o multilateral como causal de terminación?
+
+* Tratado bilateral: La otra parte puede darlo por terminado o suspenderlo.  
+* Tratado multilateral: 1\) Todas las partes (por unanimidad) pueden suspenderlo o terminarlo; 2\) La parte especialmente perjudicada puede suspenderlo; 3\) Cualquier parte puede suspenderlo si la violación altera radicalmente la ejecución para todos.
+
+16\. ¿Qué causales de nulidad y de terminación permiten la divisibilidad del tratado, o sea su invocación respecto de algunas disposiciones del tratado? En qué supuestos no se admite tal división?
+
+* Admitida: En casos de error, dolo, corrupción, violación grave e imposibilidad de cumplimiento (si es separable). (Art. 44\)  
+* Prohibida: En casos de coacción (representante o Estado) y oposición al jus cogens existente (Arts. 51, 52 y 53\)
+
+17\. Qué disposición de la C.V. recepta el denominado principio de “estoppel”? ¿Cómo podría definirlo de acuerdo a los términos de dicho artículo?  
+Establece que un Estado pierde el derecho a alegar la nulidad, terminación o suspensión si, tras conocer los hechos, conviene expresamente en la validez del tratado o se comporta de tal manera que debe considerarse que ha dado su aquiescencia. Artículo 45\.
+
+18\. ¿Qué causales de nulidad, terminación o suspensión admiten la alegación del “estoppel”? ¿Qué causales no lo permiten?
+
+* Admiten: Causales de los artículos 46 a 50 (nulidad relativa) y 60 y 62 (violación y cambio de circunstancias).  
+* No admiten: Coacción (51, 52\) y jus cogens (53, 64).
+
+19\. Cuál son las excepciones previstas en la C.V. para la alegación de la violación grave y del cambio fundamental de las circunstancias como causales de terminación de un tratado?
+
+* Violación grave: No se aplica en tratados de carácter humanitario.  
+* Cambio de circunstancias: No se aplica si el tratado establece una frontera o si el cambio resulta de una violación de la parte que lo alega
+
+20\. ¿Qué sucede si por denuncia o retiro de partes, un tratado que requería un número de 60 Estados Contratantes para entrar en vigor pasa a registrar sólo 50 Estados Partes?  
+Nada, salvo que se establezca lo contrario  
+21\. Qué efectos produce la nulidad de un tratado según la C.V.? Hay algún supuesto que merezca especial consideración?  
+El tratado carece de fuerza jurídica. Se puede exigir restablecer el statu quo anterior.  
+Especial: Los actos de buena fe previos a la alegación no se tornan ilícitos, pero este beneficio no alcanza a la parte imputable de dolo, corrupción o coacción.
+
+22\. ¿Qué efectos produce la terminación de un tratado según la C.V.? Hay algún supuesto que merezca especial consideración?    
+Exime a las partes de seguir cumpliendo, pero no afecta a derechos u obligaciones creados previamente.  
+Especial: En el Art. 64, los derechos previos sólo se mantienen si no se oponen a una nueva norma imperativa (jus cogens)
+
+23\. ¿Qué efectos produce la suspensión de un tratado según la C.V.? Hay algún supuesto que merezca especial consideración?  
+Exime de cumplirlo en las relaciones mutuas durante el período fijado.  
+Especial: Las partes deben abstenerse de actos que obstaculicen la reanudación de la aplicación.
+
+24\. ¿Qué procedimiento establece la C.V. para solicitar la nulidad, suspensión, terminación de un tratado o retiro de una de sus partes?  
+(Art. 65-66) La parte debe notificar por escrito su pretensión indicando razones. Hay un plazo de tres meses para objeciones; si no las hay, se aplica la medida. Si hay objeción, deben buscar soluciones pacíficas (Art. 33 Carta ONU). Si tras 12 meses no hay solución: controversias de jus cogens van a la CIJ; las demás, al procedimiento de conciliación.
+
