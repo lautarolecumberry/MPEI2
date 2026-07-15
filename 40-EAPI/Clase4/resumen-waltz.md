@@ -84,3 +84,9 @@ por medio de las funciones que ocupan las unidades diferenciadas. En los sistema
     - Se confunde teoria de politica internacional con teoria de politica exterior. Pero, si te centras en las unidades, son lo mismo y si no lo consideras lo mismo empieza el problema.
     - La teoría del equilibrio del poder alega explicar un resultado: la formación recurrente de equilibrios de poder.
         - Para que veamos si la teoria es verdadera se deben cumplir las hipotesis: Si se desea mantener un equilibrio de poder, las políticas de los Estados deben intentar mantenerlo. Si se mantiene, concluimos que el propósito era acertado. Si no, podemos decir que el presupuesto de la teoría es erróneo.
+
+# II
+Habla sobre como confirmar la teoria. Deja algunas cositas de como funciona el balance de poder:
+1. El poder es un medio, no un fin. El fin es sobrevivir. Entonces no se unen a la alianza del mas fuerte sino que buscan mantener su posicion dentro del sistema y por eso balancean.
+    - Los Estados debiles se unen al lado debil porque el Estado fuerte los amenaza. En la coalicion de debiles esta mas seguro y es mas apreciado pero la coalicion tiene que ser lo suficientemente fuerte para que no le ganen los grandes.
+2. Como la teoría describe la poítica internacional como un sistema competitivo, podemos predecir más específicamente que los Estados exhibirán características comunes a todos los competidores: se imitarán entre sí y socializarán de acuerdo con el sistema.
