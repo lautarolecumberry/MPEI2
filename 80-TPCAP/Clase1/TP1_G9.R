@@ -164,3 +164,31 @@ write.xlsx(
   file = "PARA_JUGAR_2025_LIMPIA.xlsx",
   overwrite = TRUE
 )
+
+# Parte 2
+# Función para calcular el modo (no existe en R base)
+calcular_moda <- function(x) {
+  x <- x[!is.na(x)]  # saco los NA
+  tabla <- table(x)
+  as.numeric(names(tabla)[tabla == max(tabla)])
+}
+
+# Función que calcula todas las medidas para una variable
+calcular_medidas <- function(x) {
+  x <- x[!is.na(x)]  # excluyo NA para que no rompan los cálculos
+  c(
+    media   = mean(x),
+    mediana = median(x),
+    moda    = calcular_moda(x)[1],  # tomo el primer valor si hay más de una moda
+    rango   = max(x) - min(x),
+    varianza = var(x),
+    desv_estandar = sd(x)
+  )
+}
+
+# Hago numerica la altura sino me tira error
+datos <- datos %>%
+  mutate(across(c(altura_en_centimetros), parse_number))
+
+# Aplico la función a las columnas de interés
+sapply(datos[c("edad", "altura_en_centimetros", "milei_expectativa", "milei_realidad")], calcular_medidas)
