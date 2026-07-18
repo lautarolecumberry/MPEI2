@@ -231,7 +231,7 @@ datos <- datos %>%
   mutate(
     altura_en_centimetros = case_when(
       altura_en_centimetros < 2 ~ altura_en_centimetros * 100,
-      TRUE ~ altura_en_centimetros # Ponemos el default como NA porque son los casos intermedios
+      TRUE ~ altura_en_centimetros
     )
   )
 
