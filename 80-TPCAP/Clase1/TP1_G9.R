@@ -1,35 +1,44 @@
-# Importo librerias
+# Importamos librerias
 library(dplyr)
 library(readxl)
 library(readr)
 library(janitor)
 library(openxlsx)
 
-# Cargo el archivo de excel
+# Cargamos el archivo de excel
 datos_sucios <- read_excel("PARA JUGAR 2026.xlsx")
 
 # 1. Limpie los nombres de las variable para que todos tengan el mismo formato
 datos <- clean_names(datos_sucios, "snake")
 
-# View(datos) # por si queremos ver los datos
+View(datos) # por si queremos ver los datos
 
-# ELIMINAR LA PRIMERA FILA QUE REPITE LOS ENCABEZADOS 
+# ELIMINAR LA PRIMERA FILA QUE REPITE LOS ENCABEZADOS
 datos <- datos %>% slice(-1)
 
 # 2. Renombre de variables
-datos <- rename(datos, milei_expectativa = cuando_gano_milei_como_esperabas_que_fuera_el_mandato_del_1_al_10)
-datos <- rename(datos, milei_realidad = ahora_como_crees_que_esta_siendo_el_mandato_del_1_al_10)
-datos <- rename(datos, n_prendas = cuantas_prendas_de_vestir_te_pusiste_hoy_conta_todo)
+datos <- rename(
+  datos,
+  milei_expectativa = cuando_gano_milei_como_esperabas_que_fuera_el_mandato_del_1_al_10
+)
+datos <- rename(
+  datos,
+  milei_realidad = ahora_como_crees_que_esta_siendo_el_mandato_del_1_al_10
+)
+datos <- rename(
+  datos,
+  n_prendas = cuantas_prendas_de_vestir_te_pusiste_hoy_conta_todo
+)
 datos <- rename(datos, conocimiento_sobre_r = grado_de_conocimiento_sobre_r)
 
 # 3. En las columnas que tienen datos de tipo character, si hay observaciones que dicen
 # N/A, NA, −, cámbienlas por missing values.
 datos <- datos %>%
-  # recorro todas las columnas
+  # recorremos todas las columnas
   mutate(across(
     # si es un caracter
     where(is.character),
-    # me fijo si es N/A, NA o − y lo cambio por NA, sino lo dejo igual
+    # nos fijamos si es N/A, NA o − y lo cambiamos por NA, sino lo dejamos igual
     ~ if_else(.x %in% c("N/A", "NA", "-"), NA_character_, .x)
   ))
 
@@ -47,11 +56,13 @@ unique(datos$sexo)
 # [1] "F" "M" NA
 
 datos <- datos %>%
-  mutate(sexo = case_when(
-    sexo == "F" ~ "Femenino",
-    sexo == "M" ~ "Masculino",
-    TRUE ~ sexo  # deja igual cualquier otro valor no contemplado
-  ))
+  mutate(
+    sexo = case_when(
+      sexo == "F" ~ "Femenino",
+      sexo == "M" ~ "Masculino",
+      TRUE ~ sexo # deja igual cualquier otro valor no contemplado
+    )
+  )
 
 # 6. Convierta la variable de "Sexo" a tipo factor.
 datos <- datos %>%
@@ -60,17 +71,37 @@ datos <- datos %>%
   )
 
 # 7. Verifique que las siguientes variables este en formato numérico; altura,
-# número de hijos, prendas de vestir y las dos variables referidas a Milei. 
+# número de hijos, prendas de vestir y las dos variables referidas a Milei.
 # Si no lo están, conviértalas.
-sapply(datos[c("milei_expectativa", "milei_realidad", "n_prendas")], class)
+sapply(
+  datos[c(
+    "altura_en_centimetros",
+    "numero_de_hijos",
+    "milei_expectativa",
+    "milei_realidad",
+    "n_prendas"
+  )],
+  class
+)
 
 # Ninguna es numeric
-# > sapply(datos[c("milei_expectativa", "milei_realidad", "n_prendas")], class)
-# milei_expectativa    milei_realidad         n_prendas 
-# "character"       "character"       "character" 
+# sapply(datos[c("altura_en_centimetros", "numero_de_hijos", "milei_expectativa", "milei_realidad", "n_prendas")], class)
+# altura_en_centimetros       numero_de_hijos     milei_expectativa        milei_realidad
+#           "character"           "character"           "character"           "character"
+#             n_prendas
+#           "character"
 
 datos <- datos %>%
-  mutate(across(c(milei_expectativa, milei_realidad, n_prendas), parse_number))
+  mutate(across(
+    c(
+      altura_en_centimetros,
+      numero_de_hijos,
+      milei_expectativa,
+      milei_realidad,
+      n_prendas
+    ),
+    parse_number
+  ))
 
 # 8. Verifique los valores únicos de la variable "Estado civil". Las categorías deben
 # ser “Soltero/a”, “Casado/a”, "Divorciado/a", "Separado/a", "Viudo/a" y "Unión
@@ -78,14 +109,17 @@ datos <- datos %>%
 unique(datos$estado_civil)
 
 # > unique(datos$estado_civil)
-# [1] "S"          "Soltera"    "C"          "Soltero"    "Soltero(a)" "Casado"     NA 
+# [1] "S"          "Soltera"    "C"          "Soltero"    "Soltero(a)" "Casado"     NA
 
 datos <- datos %>%
-  mutate(estado_civil = case_when(
-    estado_civil %in% c("S", "Soltera", "Soltero", "Soltero(a)") ~ "Soltero/a",
-    estado_civil %in% c("C", "Casado") ~ "Casado/a",
-    TRUE ~ estado_civil
-  ))
+  mutate(
+    estado_civil = case_when(
+      estado_civil %in%
+        c("S", "Soltera", "Soltero", "Soltero(a)") ~ "Soltero/a",
+      estado_civil %in% c("C", "Casado") ~ "Casado/a",
+      TRUE ~ estado_civil
+    )
+  )
 
 # 9. Convierta la variable "Estado civil" a tipo factor.
 datos <- datos %>%
@@ -99,28 +133,32 @@ datos <- datos %>%
 unique(datos$te_gusta_el_futbol)
 
 # > unique(datos$te_gusta_el_futbol)
-# [1] "No"                  "Si"                  "No, solo el mundial" "Sí"                 
-# [5] NA    
+# [1] "No"                  "Si"                  "No, solo el mundial" "Sí"
+# [5] NA
 
 datos <- datos %>%
-  mutate(te_gusta_el_futbol = case_when(
-    te_gusta_el_futbol %in% c("Si", "Sí") ~ 1,
-    te_gusta_el_futbol == "No" ~ 0,
-    TRUE ~ NA_real_ # Ponemos el default como NA porque son los casos intermedios
-  ))
+  mutate(
+    te_gusta_el_futbol = case_when(
+      te_gusta_el_futbol %in% c("Si", "Sí") ~ 1,
+      te_gusta_el_futbol == "No" ~ 0,
+      TRUE ~ NA_real_ # Ponemos el default como NA porque son los casos intermedios
+    )
+  )
 
 # 11. Verifique los valores únicos de la variable "Estas en zoom?". Reemplace la variable
 # de "Estas en zoom?" por una variable en la cual No tome valor 0 y Sí valor 1.
 unique(datos$estas_en_zoom)
 
 # > unique(datos$estas_en_zoom)
-# [1] "No" "no" "Sí" "Si" NA  
+# [1] "No" "no" "Sí" "Si" NA
 
 datos <- datos %>%
-  mutate(estas_en_zoom = case_when(
-    estas_en_zoom %in% c("Si", "Sí") ~ 1,
-    tolower(estas_en_zoom) == "no" ~ 0, # usamos el tolower porque hay `No` y `no`
-  ))
+  mutate(
+    estas_en_zoom = case_when(
+      estas_en_zoom %in% c("Si", "Sí") ~ 1,
+      tolower(estas_en_zoom) == "no" ~ 0, # usamos el tolower porque hay `No` y `no`
+    )
+  )
 
 # 12. Verifique los valores únicos de la variable "Perro o Gato". Las categorías deben
 # ser “Perro” y “Gato”. Si existen variaciones en la escritura (por ejemplo, “Perro” y
@@ -131,10 +169,12 @@ unique(datos$perro_o_gato)
 # [1] "Gato"  "Perro" "na"    NA
 
 datos <- datos %>%
-  mutate(perro_o_gato = case_when(
-    perro_o_gato == "na" ~ NA_character_, # Si el valor es el string "na" → lo convierte en NA_character_
-    TRUE ~ perro_o_gato # Cualquier otro valor ("Gato", "Perro", o los NA que ya eran NA) → lo deja igual.
-  ))
+  mutate(
+    perro_o_gato = case_when(
+      perro_o_gato == "na" ~ NA_character_, # Si el valor es el string "na" → lo convierte en NA_character_
+      TRUE ~ perro_o_gato # Cualquier otro valor ("Gato", "Perro", o los NA que ya eran NA) → lo deja igual.
+    )
+  )
 
 # 13. Convierta la variable "Perro o Gato" a tipo factor.
 datos <- datos %>%
@@ -148,7 +188,7 @@ datos <- datos %>%
 unique(datos$maradona_o_messi)
 
 # > unique(datos$maradona_o_messi)
-# [1] "Messi"    "Maradona" NA  
+# [1] "Messi"    "Maradona" NA
 
 # Ya estan bien asi que no nos hace falta unificarlos
 
@@ -158,7 +198,7 @@ datos <- datos %>%
     maradona_o_messi = factor(maradona_o_messi)
   )
 
-# 16. Guarde la base de datos en formato xlsx.
+# 16. Guardamos la base de datos en formato xlsx.
 write.xlsx(
   datos,
   file = "PARA_JUGAR_2025_LIMPIA.xlsx",
@@ -168,27 +208,53 @@ write.xlsx(
 # Parte 2
 # Función para calcular el modo (no existe en R base)
 calcular_moda <- function(x) {
-  x <- x[!is.na(x)]  # saco los NA
+  x <- x[!is.na(x)] # saco los NA
   tabla <- table(x)
   as.numeric(names(tabla)[tabla == max(tabla)])
 }
 
 # Función que calcula todas las medidas para una variable
 calcular_medidas <- function(x) {
-  x <- x[!is.na(x)]  # excluyo NA para que no rompan los cálculos
+  x <- x[!is.na(x)] # excluyo NA para que no rompan los cálculos
   c(
-    media   = mean(x),
+    media = mean(x),
     mediana = median(x),
-    moda    = calcular_moda(x)[1],  # tomo el primer valor si hay más de una moda
-    rango   = max(x) - min(x),
+    moda = calcular_moda(x)[1], # tomamos el primer valor si hay más de una moda
+    rango = max(x) - min(x),
     varianza = var(x),
     desv_estandar = sd(x)
   )
 }
 
-# Hago numerica la altura sino me tira error
+# Pasamos la altura a centimetros siempre
 datos <- datos %>%
-  mutate(across(c(altura_en_centimetros), parse_number))
+  mutate(
+    altura_en_centimetros = case_when(
+      altura_en_centimetros < 2 ~ altura_en_centimetros * 100,
+      TRUE ~ altura_en_centimetros # Ponemos el default como NA porque son los casos intermedios
+    )
+  )
 
-# Aplico la función a las columnas de interés
-sapply(datos[c("edad", "altura_en_centimetros", "milei_expectativa", "milei_realidad")], calcular_medidas)
+# Aplicamos la función a las columnas de interés
+sapply(
+  datos[c(
+    "edad",
+    "altura_en_centimetros",
+    "milei_expectativa",
+    "milei_realidad"
+  )],
+  calcular_medidas
+)
+
+# Graficos para el informe
+boxplot(datos$edad,
+        main = "Boxplot de Edad",
+        ylab = "Edad")
+
+boxplot(datos$altura_en_centimetros,
+        main = "Boxplot de Altura",
+        ylab = "Altura")
+
+boxplot(datos$milei_expectativa, datos$milei_realidad,
+        names = c("Milei Expectativa", "Milei Realidad"),
+        main = "Boxplots")
