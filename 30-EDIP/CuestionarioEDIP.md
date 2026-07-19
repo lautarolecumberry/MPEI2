@@ -89,7 +89,7 @@ Objetor persistente: permite a un Estado evitar quedar sujeto a una costumbre ge
 
 7. ¿Cuál es la relevancia actual del derecho internacional consuetudinario? (Cap 5\)
 
-A pesar del auge de los tratados, la costumbre ha tenido un resurgimiento significativo. Es fundamental para regular áreas donde no hay tratados o para obligar a Estados que no son parte de ellos. Actualmente se divide entre costumbre tradicional (basada en la práctica) y la costumbre moderna (basada en la intención).
+A pesar del auge de los tratados, la costumbre ha tenido un resurgimiento significativo. Es fundamental para regular áreas donde no hay tratados o para obligar a Estados que no son parte de ellos.
 
 8. ¿Cuál es la diferencia entre normas dispositivas y norma imperativa de derecho internacional (jus cogens)? (Cap 4\)
 
@@ -117,7 +117,7 @@ La equidad puede:
 
 12. ¿Cuál es la diferencia entre principios generales de derecho y principios de derecho internacional? (Cap 9\)
 
-Principios generales de derecho: Son postulados máximos que se encuentran en todos los ordenamientos jurídicos nacionales y que son trasladados al ámbito internacional. Ejemplos: buena fe, nadie puede ser juez en su causa, no se puede ser condenado dos veces por lo mismo.
+Principios generales de derecho: Son postulados máximos de los ordenamientos jurídicos nacionales. Ejemplos: buena fe, nadie puede ser juez en su causa, no se puede ser condenado dos veces por lo mismo.
 
 Principios de derecho internacional: Son reglas fundamentales propias del sistema internacional que no necesariamente tienen un origen en el derecho interno. Ejemplos: la soberanía estatal, la no intervención, libertad de los mares.
 
@@ -402,10 +402,6 @@ Distintos Estados: Si ambos Estados están en el nuevo rige el nuevo, si un Esta
 7\. ¿Qué sucede si la Carta de las Naciones Unidas establece una obligación distinta de la que establece otro tratado anterior del cual es parte un Estado miembro de la ONU, cuál deberá respetar? ¿Y si el tratado es posterior a la Carta de la ONU?  
 Prima la Carta de la ONU, no importa si es anterior o posterior.
 
-### 
-
-### 
-
 ### INTERPRETACIÓN
 
 1\. ¿Qué se entiende por interpretación de los tratados?  
@@ -630,3 +626,274 @@ Especial: Las partes deben abstenerse de actos que obstaculicen la reanudación 
 24\. ¿Qué procedimiento establece la C.V. para solicitar la nulidad, suspensión, terminación de un tratado o retiro de una de sus partes?  
 (Art. 65-66) La parte debe notificar por escrito su pretensión indicando razones. Hay un plazo de tres meses para objeciones; si no las hay, se aplica la medida. Si hay objeción, deben buscar soluciones pacíficas (Art. 33 Carta ONU). Si tras 12 meses no hay solución: controversias de jus cogens van a la CIJ; las demás, al procedimiento de conciliación.
 
+# Clase 4: Sujetos de Derecho internacional
+
+**Clase 4: Sujetos de Derecho internacional**
+
+1\. ¿Cuál es la definición de sujeto de DI?  
+Ente titular de derechos y obligaciones internacionales
+
+2\. ¿Cuáles son los rasgos de la capacidad internacional?
+
+* ser creador de obligaciones internacionales  
+* ser destinatario de obligaciones y derechos  
+* poder exigir el respeto de obligaciones internacionales (ej. recurrir a terceros)  
+* incurrir en responsabilidad internacional
+
+3\. ¿Cuáles son las características del E como sujeto de derecho internacional?  
+Sujeto originario y necesario del DI \- Personalidad jurídica deriva de su soberanía. Tiene capacidad absoluta.
+
+4\. ¿Cuáles son los elementos constitutivos del Estado? ¿En qué consiste y qué rol tiene la soberanía?  
+Elementos constitutivos:
+
+* Población  
+* Territorio  
+* Gobierno
+
+La soberanía es el atributo en virtud del cual el Estado ejerce, en el ámbito interno, un poder de imperio exclusivo sobre su territorio y población. En el ámbito externo, se traduce en la independencia respecto de otros Estados, en un plano de igualdad jurídica.
+
+5\. Reconocimiento de Estados; naturaleza jurídica del acto y efectos; formas;  
+reconocimiento y admisión en una organización internacional.  
+**Naturaleza y efectos**: Existen dos teorías principales. La teoría constitutiva sostiene que el reconocimiento es necesario para que el Estado exista como sujeto. La teoría declarativa (receptada por la Convención de Montevideo) afirma que la existencia política del Estado es independiente de su reconocimiento por los demás.  
+**Formas**: Expreso (firma un tratado, manda una carta, hace una declaración oficial) o tácito (se abre una embajada, etc)  
+**Admisión en organizaciones**: El reconocimiento influye en la capacidad de interactuar, pero incluso los "micro-Estados" de reducida extensión han sido reconocidos y admitidos en organizaciones internacionales gubernamentales
+
+6\. Reconocimiento de gobiernos: formas, efectos, doctrinas americanas.  
+Para el derecho internacional, la forma de gobierno adoptada no suele tener relevancia inicial siempre que sea efectiva.
+
+Efectos: Venezuela no pudo sacar el oro de GB porque GB reconocía a otro gobierno
+
+Doctrinas Americanas:
+
+* Tobar: los países no deben reconocer a los "gobiernos de facto" para evitar la violencia y asegurar el respeto constitucional.  
+* Wilson: (muy parecida a la tobar) Estados Unidos no reconocería a regímenes que llegaran al poder por medios inconstitucionales  
+* Estrada: rechaza por completo el reconocimiento de gobiernos como una forma de presión. Establece que calificar la legitimidad de un gobierno extranjero es una violación a la soberanía y al principio de no intervención.
+
+7\. ¿Cuáles son los métodos de adquisición originaria y derivada de territorio? ¿En qué se diferencian? ¿En qué consiste cada uno de los métodos? ¿Cuáles de los métodos serían ilícitos en la actualidad?
+
+* Adquisición originaria: Descubrimiento, Ocupación efectiva, Contigüidad geográfica, Accesión  
+* Adquisición derivada:  
+  * Convencional: Cesión o Fusión  
+  * No convencionales: Decisión unilateral de un E, Decisión unilateral de una OI, Conquista, Prescripción adquisitiva o usucapión, Adjudicación
+
+Diferencia: sobre un territorio sin dueño previo, mientras que los derivados implican una transferencia.
+
+Ilícitos en la actualidad: Uso de la fuerza, etc
+
+8\. ¿Cuál es el significado de los siguientes términos?:
+
+* Títulos jurídicos: Argumentos en los que un Estado basa su reclamo de soberanía sobre un territorio.  
+* Intertemporalidad del Derecho: un hecho debe juzgarse con la ley que estaba vigente en el momento exacto en que ocurrió.  
+* Fecha crítica:   
+* Frontera: Límite que marca la exclusividad de la soberanía territorial.  
+* Frontera natural:   
+* Frontera artificial:   
+* Uti possidetis: Después de independizarse, los nuevos países tienen los territorios de lo que controlaban antes de la independencia.  
+* Proceso de fijación de una frontera:   
+* Delimitación: Proceso jurídico y político de fijar la extensión de los límites territoriales de un Estado.  
+* Demarcación: Cuando se traslada la línea delimitada en el terreno.
+
+9\. De acuerdo con la Convención de Viena sobre la Sucesión de Estados en Materia de Tratados (1978), ¿qué criterio se aplica en la situación de sucesión de parte de territorio, un estado de reciente independencia (ex colonia), separación de Estado, unificación y disolución?, ¿en cuál de ellos se aplica el criterio de la tabla rasa?  
+sucesión: de una parte del territorio se aplica la movilidad de las fronteras de los tratados, lo que significa que dejan de aplicarse los tratados del Estado predecesor y se extienden los del sucesor.   
+separación, unificación y disolución de Estados: el criterio general es el principio de continuidad, por el cual los tratados preexistentes siguen vinculando a los Estados resultantes en sus respectivos ámbitos territoriales.
+
+El criterio de la tabla rasa se aplica única y exclusivamente en el caso de un Estado de reciente independencia (ex colonia). Bajo este principio, el nuevo Estado que nace a la vida internacional no está obligado a mantener en vigor ni a formar parte de los tratados celebrados por la antigua potencia colonial.
+
+# Articulo Estados Insulares
+
+**Articulo Estados Insulares: Concluding the Normative Synergy on State Continuity: The ILC, the General Assembly and the Climate Advisory Opinion**  
+1\. La costumbre internacional requiere dos elementos: práctica y opinio juris.  
+Identifiquen en el artículo qué hechos podrían constituir "práctica" de los Estados  
+insulares (piensen en las reformas constitucionales, los comunicados conjuntos, el  
+tratado Falepili Union) y qué elementos podrían dar cuenta de opinio juris. ¿Alcanza  
+lo que describe el autor para tener por acreditados ambos elementos, o falta algo?  
+**Hechos que constituyen la práctica**: Las reformas a sus constituciones, la celebración de comunicados conjuntos, la firma de tratados (como el Tratado del Falepili Union entre Tuvalu y Australia que reconoce la continuidad permanente) , y sus declaraciones regionales (como la declaración del Foro de las Islas del Pacífico).
+
+**Opinio juris**: El voto a favor de 141 Estados en la Resolución 80/263 de la Asamblea General de la ONU y los argumentos presentados por diversos Estados ante la Corte Internacional de Justicia (CIJ) invocando el "derecho fundamental a la supervivencia".
+
+**¿Es suficiente?**: No del todo. La sinergia normativa no se completará hasta que la práctica estatal posterior aclare el alcance, las condiciones y las consecuencias legales de dicha continuidad, las cuales siguen sin resolverse. 
+
+2\. El artículo dice que la Resolución 80/263 es "particularly strong evidence of a  
+growing opinio juris". ¿Por qué una resolución de la Asamblea General puede servir  
+como prueba de opinio juris pero no constituye, por sí sola, una fuente de derecho  
+internacional vinculante? Relaciónenlo con el art. 38 del Estatuto de la CIJ y con la  
+naturaleza jurídica de las resoluciones de la AG.  
+**Naturaleza jurídica y el Art. 38 del Estatuto de la CIJ**: Las resoluciones de la Asamblea General (AGNU) no están listadas como fuentes principales de derecho en el Artículo 38 del Estatuto de la CIJ; por regla general, son recomendaciones y carecen de fuerza jurídica vinculante por sí mismas.
+
+**Prueba de opinio juris**: Aunque no crean la norma directamente, las resoluciones pueden reflejar el consenso o la aceptación jurídica de los Estados que votan a favor. En este caso, el apoyo masivo a la resolución funciona como un fuerte indicio del convencimiento jurídico de la comunidad internacional (opinio juris) respecto a la continuidad del Estado ante el cambio climático, sin necesidad de que el instrumento sea vinculante per se.
+
+3\. ¿Qué diferencia hay entre el trabajo de la CDI (International Law Commission) como  
+"medio auxiliar para la determinación de las normas" y una fuente principal de  
+derecho internacional? En el artículo, ¿la CDI está creando la norma o simplemente  
+constatando/sistematizando una práctica ya existente? ¿Cambia esto a lo largo de  
+las distintas etapas del trabajo del Study Group?  
+**Medio auxiliar vs. Fuente principal:** Las fuentes principales (tratados, costumbre) crean obligaciones directas entre Estados, mientras que la CDI (un órgano técnico de expertos) actúa como un medio auxiliar para la determinación o desarrollo progresivo de las normas. La CDI no tiene la potestad de obligar a los Estados por sí sola.  
+**¿Creación o constatación?** En este caso, la CDI actúa como un catalizador para el desarrollo progresivo en lugar de una mera constatación.  
+**Evolución en el Study Group**: Sí, la postura cambió notablemente a lo largo de las etapas:
+
+- 2022: Comenzó con extrema cautela, planteando la continuidad meramente como una posibilidad o una "presunción presunta" (rebuttable presumption).  
+- Informe Final: Tras nutrirse de la práctica regional posterior (como el tratado de Tuvalu), el Study Group dejó atrás la idea de una presunción refutable y pasó a proponer la continuidad como la "respuesta definitiva" al problema, impulsando así la evolución del derecho internacional.
+
+# Clase 5: Organizaciones Internacionales
+
+**Clase 5: Organizaciones Internacionales**  
+1\. ¿Cuál es la definición y cuáles son las características de las OI?  
+**Def:** Organización establecida por un tratado u otro instrumento de DI y que posee su propia personalidad internacional.  
+Características:
+
+* Sujetos derivados  
+* Creadas por tratados   
+* Compuesta por Estados  
+* Capacidad funcional (para cumplir con sus competencias),  
+* Estructura orgánica permanente  
+* Personalidad jurídica (distinta de la de sus miembros)
+
+2\. ¿Cuáles son las consecuencias de la personalidad jurídica de las OI?
+
+* capacidad de establecer rel con otros sujetos  
+* capacidad de crear normas  
+* responsabilidad internacional  
+* reclamaciones internacionales  
+* inmunidad de jurisdicción  
+* privilegios e inmunidades de los agentes de OI
+
+3\. ¿Qué tipos de OI hay?
+
+* Universales/Regionales/Bilaterales (ONU, OEA, Comision del Rio de la plata)  
+* De finalidad general/Especializadas (OMS, Comisión del Rio de la plata)  
+* Abiertas/Cerradas  
+* De cooperación/de integración  
+* Intergubernamentales/supranacionales (OEA vs UE)
+
+4\. ¿Qué tipos de órganos suelen encontrarse en las OI?
+
+* Órganos de representantes gubernamentales: responden a los estados
+
+\-Plenos (todos los estados están representados)  
+\-Limitados (funciones más específicas)
+
+* Órganos de agentes internacionales: responden a la naturaleza administrativa de la ONG.
+
+5\. ¿Qué tipos de votación se utilizan en los órganos colegiados de las OI?  
+mayorías, mayorías especiales, voto calificado, consenso
+
+6\. ¿Cuál es la distinción entre privilegios e inmunidades de las OI y qué tipos de cada  
+uno de ellos existe?
+
+Se pueden distinguir según a quién protegen y su finalidad:
+
+* Inmunidad de jurisdicción: Protege a la organización como tal frente a los tribunales nacionales de los Estados.  
+* Privilegios e inmunidades de los funcionarios y representantes (para asegurar el desempeño independiente de sus funciones).
+
+7\. ¿Qué tipo de actos se pueden encontrar en las OI según su función, su papel, etc.?
+
+* Actos Administrativos:  
+* Actos Políticos y Diplomáticos: Destacan la capacidad de llamar la atención del Consejo de Seguridad sobre asuntos que pongan en peligro la paz (Art. 99), efectuar reclamos ante tribunales nacionales e internacionales.  
+* Buenos Oficios: Es una función vital para evitar que surjan o se extiendan controversias internacionales.
+
+8\. ¿Cuál es la diferencia entre actos normativos internos y externos?  
+Actos normativos internos: Son aquellos destinados a regular el funcionamiento y estructura interna de la organización.  
+Actos normativos externos: Son manifestaciones de voluntad dirigidas a los Estados miembros u otros sujetos. En la ONU, estos pueden ser:
+
+* Recomendaciones: Generalmente emanadas de la Asamblea General; no son vinculantes pero pueden influir en la formación de costumbre internacional.  
+* Decisiones: Como las del Consejo de Seguridad, que son obligatorias para todos los Estados miembros.
+
+9\. ¿Cuál es la relevancia de la opinión consultiva sobre la “Reparación de perjuicios”  
+para las OI como sujetos de derecho internacional?  
+Es un hito fundamental por las siguientes razones:
+
+* Dictaminó que la ONU posee personalidad jurídica internacional.  
+* Puede hacer reclamos internacionales.  
+* La ONU puede reclamar reparación por los daños sufridos por sus funcionarios mientras actúan en servicio de la organización.  
+* Tiene personalidad objetiva (la personalidad de la ONU es oponible a la comunidad internacional en su conjunto y un par de cosas mas)
+
+10\. La Organización de las Naciones Unidas: ¿Cuál es la jerarquía de la Carta?  
+Conflicto entre obligaciones de la Carta y obligaciones de otro tratado \>\> prevalece la Carta.
+
+11\. ¿Qué capacidad jurídica tiene la ONU / personalidad jurídica?  
+Tiene capacidad jurídica necesaria para ejercer sus funciones y realizar sus propósitos.
+
+12\. ¿Cuáles son las principales características de los privilegios e inmunidades de la  
+ONU?  
+ONU: goza de privilegios e inmunidades para realizar sus propósitos.  
+Representantes de los EM y funcionarios de la ONU: gozan de privilegios e inmunidades para desempeñar sus funciones.
+
+13\. ¿Cuáles son las principales características de la reforma y revisión?  
+La Carta prevé dos mecanismos distintos para su modificación, ambos sujetos al poder de veto de los miembros permanentes del CS:
+
+- Reforma (Art. 108): Requiere la adopción por dos tercios de la Asamblea General (AG) y la ratificación por dos tercios de los miembros de la ONU, incluyendo obligatoriamente a los cinco miembros permanentes del CS.  
+- Revisión (Art. 109): Implica la convocatoria a una Conferencia General por voto de dos tercios de la AG y de cualesquiera nueve miembros del CS. Las modificaciones recomendadas por la Conferencia requieren para su entrada en vigor la ratificación por dos tercios de los miembros, incluyendo a todos los permanentes del CS.
+
+14\. Preámbulo: contenido y valor jurídico.  
+Contenido: Expresa los deseos de los redactores y los fines de la creación de la ONU.  
+Valor Jurídico: Según la CIJ, el preámbulo constituye la base moral y política de las disposiciones jurídicas pero no constituye reglas de derecho por sí mismo. Sirve como contexto necesario para la interpretación de sus cláusulas
+
+15\. Contenido, diferencias y efectos de los distintos propósitos y principios de las Naciones Unidas.  
+Se encuentran en el Capítulo I (Arts. 1 y 2). Los propósitos son los fines y los principios son las reglas de conducta para alcanzarlos.
+
+* Propósitos (Art. 1): 1\) Mantener la paz y seguridad; 2\) Fomentar relaciones de amistad; 3\) Cooperación internacional (económica, social, cultural y DDHH); 4\) Servir de centro armonizado.  
+* Principios (Art. 2): Igualdad soberana, buena fe, solución pacífica de controversias, abstención de la amenaza o uso de la fuerza, asistencia a la ONU, asegurar que no miembros respeten los principios y no intervención en asuntos internos.
+
+16\. Los miembros de las Naciones Unidas: categorías; condiciones y procedimiento de admisión; suspensión y expulsión.
+
+* Categorías: Originarios (los firmaron la Declaración) y Admitidos  
+* Admisión (Art. 4): Para Estados amantes de la paz que acepten las obligaciones de la Carta. Se efectúa por decisión de la AG a recomendación del CS.  
+* Suspensión (Art. 5): Para miembros objeto de acción preventiva o coercitiva; decidida por la AG a recomendación del CS  
+* Expulsión (Art. 6): Por violación repetida de los principios; decidida por la AG a recomendación del CS.
+
+17\. Órganos principales de las Naciones Unidas. Composición, funciones y votación.
+
+* Asamblea General: Todos los miembros. 1 voto por Estado. Funciones deliberativas generales y presupuestarias.  
+* Consejo de Seguridad: 15 miembros. Responsabilidad primordial de la paz y seguridad.  
+* Consejo Económico y Social (ECOSOC): 54 miembros elegidos por la AG. Coordina la labor económica y social y organismos especializados.  
+* Corte Internacional de Justicia: 15 magistrados. Órgano judicial principal.  
+* Secretaría: Secretario General (nombrado por AG a recomendación del CS) y el personal. Funciones administrativas y políticas.  
+* Consejo de Administración Fiduciaria: Actualmente sin funcionamiento efectivo tras la descolonización total de los territorios en fideicomiso
+
+18\. ¿En qué situaciones se utilizan mayorías especiales en las votaciones? ¿Cómo se  
+dividen/comparten las funciones con respecto al mantenimiento de la paz y la  
+seguridad internacional?
+
+* Votaciones en la AG: Para "cuestiones importantes" (paz, elecciones de órganos, admisión/suspensión/expulsión, presupuesto) hacen falta ⅔.  
+* Votaciones en el CS: Las cuestiones de procedimiento requieren 9 votos. Las "demás cuestiones" requieren 9 más el voto de todos los miembros permanentes (derecho de veto).  
+* Mantenimiento de la Paz: El CS tiene la responsabilidad primordial y el monopolio del uso de la fuerza. La AG no puede hacer recomendaciones (Art. 12\) a menos que se aplique la resolución "Unión Pro Paz" en caso de parálisis del CS por el veto.
+
+19\. En particular sobre CS, poder de veto, abstención y diferencia entre “cuestiones de  
+procedimiento” y “demás cuestiones”.
+
+* Cuestiones de Procedimiento: Las decisiones se toman por el voto afirmativo de nueve miembros cualesquiera.  
+* Demás Cuestiones (Sustantivas): Requieren nueve votos afirmativos que deben incluir los votos de todos los miembros permanentes. El voto negativo de uno de ellos constituye el poder de veto.  
+* Abstención obligatoria: En decisiones tomadas bajo el Capítulo  de arreglo pacífico, la parte en una controversia debe abstenerse de votar.
+
+20\. ¿La ausencia de un miembro permanente en el CS supone veto?¿La abstención de  
+un miembro del CS está prevista en la carta? ¿Es legal? ¿En qué consiste el  
+llamado doble veto?
+
+* La ausencia de un miembro permanente en la sesión no se interpreta como un veto.  
+* La Carta no la prevé de forma general (salvo para partes en una controversia), la abstención de un miembro permanente tampoco se interpreta como veto en la actualidad.  
+* Doble Veto: El "primer veto" se utiliza para decidir si una cuestión es de procedimiento o no; si se decide que es de fondo, se aplica el "segundo veto" sobre la resolución misma.
+
+21\. ¿Qué son órganos subsidiarios y organismos especializados? ¿Características y  
+ejemplos de cada uno de ellos?
+
+* Órganos Subsidiarios: Son creados por los órganos principales cuando se necesitan para el desempeño de sus funciones. Funcionan bajo la autoridad del órgano que los creó. Ejemplos: UNICEF, ACNUR (en la AG) o comités contra el terrorismo (en el CS).  
+* Organismos Especializados: Son organizaciones internacionales autónomas creadas por acuerdos intergubernamentales con amplias atribuciones. Se vinculan a la ONU mediante acuerdos con el ECOSOC. Ejemplos: OIT, FAO, UNESCO, OMS, FMI y el Grupo del Banco Mundial.
+
+22\. ¿En qué consistía el régimen de administración fiduciaria?  
+Consistía en un sistema de supervisión internacional para administrar territorios, con el fin de promover su adelanto político, económico y social hacia el gobierno propio o la independencia.
+
+23\. ¿En qué consiste el régimen de territorios no autónomos? ¿Se prevé la  
+descolonización en la Carta? ¿Cómo fue creado y qué funciones cumple el comité  
+de descolonización?  
+**Régimen**: Se aplica a territorios cuyos pueblos no tienen gobierno propio. Las potencias administradoras reconocen que los intereses de los habitantes están por encima de todo y se obligan a transmitir información técnica al Secretario General.  
+**Descolonización**: La Carta no usa el término "descolonización", promueve el desarrollo del gobierno propio.  
+**Comité de Descolonización**: Creado por resolución de la AG en 1961 (24 miembros), su función es examinar la aplicación de la declaración sobre la independencia de los países y pueblos coloniales.
+
+24\. a. ¿Qué dice la Carta sobre derechos humanos y libre determinación?  
+Esta cubierto por uno de los principios de la ONU (fomentar relaciones de amistad basadas en el respeto al principio de la igualdad de derechos y al de la libre determinación de los pueblos; y promover el respeto universal a los derechos humanos sin discriminación).
+
+24.b. ¿Cuáles son las funciones del Secretario General (administrativas, políticas, etc)?  
+**Funciones del Secretario General**:
+
+* Administrativas: Es el más alto funcionario administrativo; actúa en todas las sesiones de los órganos principales; prepara el presupuesto; controla gastos; actúa como depositario de tratados; y presta servicios de traducción y distribución de documentos.  
+* Políticas y Diplomáticas: Puede llamar la atención del CS sobre asuntos que pongan en peligro la paz (Art. 99); rinde un informe anual sobre las actividades de la ONU; y ejerce sus "buenos oficios" (mediación independiente e imparcial) para evitar controversias.
