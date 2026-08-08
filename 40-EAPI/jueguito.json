@@ -1,0 +1,432 @@
+{
+  "poleA": {
+    "name": "USA",
+    "label": "Polo A \u2014 Estados Unidos"
+  },
+  "poleB": {
+    "name": "China",
+    "label": "Polo B \u2014 China"
+  },
+  "countries": [
+    {
+      "country_name": "Argentina",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Amistad regional",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Australia",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Brasil",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Amistad regional",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Camboya",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r2"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Colombia",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Corea del Sur",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Amistad regional",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Filipinas",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Amistad regional",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "India",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Indonesia",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Israel",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r2"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Jap\u00f3n",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Amistad regional",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Laos",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "M\u00e9xico",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r2"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Pakist\u00e1n",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Rusia",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r2"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Sud\u00e1frica",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Taiwan",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r2"
+        },
+        {
+          "text": "Amistad regional",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Vietnam",
+      "correctPole": "A",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Amistad regional",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Nepal",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r1"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Bandwagoning",
+          "isCorrect": true,
+          "id": "r3"
+        }
+      ]
+    },
+    {
+      "country_name": "Cuba",
+      "correctPole": "B",
+      "reasons": [
+        {
+          "text": "Balance de poder",
+          "isCorrect": true,
+          "id": "r1"
+        },
+        {
+          "text": "Ideas similares",
+          "isCorrect": false,
+          "id": "r2"
+        },
+        {
+          "text": "Balance de poder",
+          "isCorrect": false,
+          "id": "r3"
+        }
+      ]
+    }
+  ]
+}
