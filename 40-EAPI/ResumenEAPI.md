@@ -161,3 +161,58 @@ Nivel de análisis correcto: sistémico.
 * Lo único que puede cambiar es la distribución de capacidades  
   * El sistema tiende al equilibrio mediante el balance de poder.  
     * Puede ser mediante guerras preventivas o cambios de alianzas. Esto es porque el poder repele: cuando un Estado se vuelve poderoso los otros se oponen para contrarrestarlo.
+
+# Constructivismo
+
+**Constructivismo social**
+
+Comparte con escuela inglesa:
+
+* Ciencias sociales \!= Ciencias naturales  
+* Le importan las ideas, la historia, etc
+
+Parte de *constructivismo*:
+
+* Hay algo que se construye qué es lo “social” (ideas, historia, etc). Hay una parte material pero hay algo que construimos sobre eso, le damos sentido a las cosas.  
+* Hay una construcción mutua entre el agente y la estructura  
+  * La estructura construye al agente: le da capacidades materiales, etc etc.  
+    * Muy parecido al realismo.  
+  * PERO el agente también construye a la estructura. Ej: los teóricos que influyen en la toma de decisiones.  
+  * Ejemplo: Ahora vamos a un edificio que aceptamos que es una universidad. Eso hace que nosotros seamos alumnos y Andrea profesora. En 5 años, el lugar puede ser un restaurante y vamos como colegas.
+
+Parte de *social*:
+
+* Hay un proceso inter-subjetivo. Consensos globales sociales que le dan significado a las cosas materiales.   
+  * Ejemplos:  
+    * Los billetes: papelitos que valen o no valen según el país.  
+    * Las fronteras: son líneas en un mapa  
+  * Estos procesos intersubjetivos afectan mucho la toma de decisiones y la racionalidad en general.
+
+Campo intermedio:
+
+* Entre teorías estructurales y agente-céntricas.  
+* Entre teorías universalistas y teorías post-modernas.  
+* Entre el racionalismo y el reflectivismo.  
+  * El reflectivismo es una corriente teórica en las relaciones internacionales que rechaza el positivismo y los métodos científicos estrictos.  
+* Entre el materialismo y el idealismo  
+  * Hay una realidad material pero las ideas importan
+
+Epistemología: Entender antes que explicar
+
+* Las ciencias sociales son distintas a las ciencias naturales  
+* Distinto al positivismo: mundo social \= mundo natural, las teorías tienen que poder explicar
+
+Ontología: Intersubjetividad
+
+* Las estructuras también pueden cambiar porque los agentes las construyen en parte.   
+  * Distinto del realismo y el neoliberalismo.  
+* Importan los procesos porque:  
+  * La estructura se construye, no está totalmente dada. EL AGENTE IMPORTA\!  
+  * Las identidades cambian con la interacción.  
+* Las identidades no son fijas, cambian con las interacciones.  
+  * Si cambian las identidades pueden cambiar las relaciones. Ejemplo: EEUU e Irán pueden pasar a ser amigos.  
+  * También pueden ser identidades de los Estados, no sólo de las personas.
+
+Preguntas andrea:
+
+* El campo intermedio está distinto en las filminas que en el paper, que onda?

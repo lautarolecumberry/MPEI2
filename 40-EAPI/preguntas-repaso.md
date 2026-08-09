@@ -1,0 +1,1 @@
+- al neoliberalismo le importa el proceso y al contructivismo tambien, hay alguna diferencia en eso?
