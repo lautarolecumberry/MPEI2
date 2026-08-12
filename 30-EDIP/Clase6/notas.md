@@ -83,3 +83,25 @@ Opiniones consultivas:
 
 Mecanismos de sancion:
 - Tribunales nacionales
+
+# Repaso en la clase 7
+principio basico del derecho penal: la territorialidad que es la regla
+- los jueces que juzgan el delito son los jueces donde se cometio
+
+pero hay casos de extraterrioterilidad:
+- nacionalidad de la victima: si la victima es de otro lado, se puede juzgar en otro lado
+- nacionalidad del autor: si alguien comete un delito en otro pais y se rechaza una extradicion, se puede juzgar en el tribunal local por algo que hizo en otro lado
+- real o de proteccion: lesa humanidad? not sure
+
+Jurisdiccion Universal: capacidad de un tribunal nacional sin importar la nacionalidad de nadie (autor, victimas, o el hecho) pero por la gravedad del crimen (genocidio, etc) se puede juzgar en cualquier lado
+    - Ejemplo: Eichman se juzgo en Israel
+
+Crimenes internacional: los pueden juzgar:
+- Tribunales internacionales. Ej Corte Penal Internacional, Corte de Nuremberg, etc
+    - Jurisdiccion concurrente: Algunos tribunales internacionales tenian primacia a los tribunales nacionales
+    - Jurisdiccion complementaria: La CPI es complementaria: juzga cuando los tribunales nacionales no juzgan
+- Tribunales nacionales
+
+CPI:
+- Tiene jurisdiccion para 4 crimenes: genocidio, lesa humanidad, crimenes de guerra, crimen de agresion.
+- Pero tambien para ciertos delitos (contra la administracion de justicia).
