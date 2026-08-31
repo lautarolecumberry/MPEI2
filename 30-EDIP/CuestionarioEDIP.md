@@ -1,4 +1,4 @@
-# Resumen
+# Clase 1,2,3,4,5
 
 ### **Clase 1: Introducción**
 
@@ -860,12 +860,12 @@ Esta cubierto por uno de los principios de la ONU (fomentar relaciones de amista
 * Administrativas: Es el más alto funcionario administrativo; actúa en todas las sesiones de los órganos principales; prepara el presupuesto; controla gastos; actúa como depositario de tratados; y presta servicios de traducción y distribución de documentos.  
 * Políticas y Diplomáticas: Puede llamar la atención del CS sobre asuntos que pongan en peligro la paz (Art. 99); rinde un informe anual sobre las actividades de la ONU; y ejerce sus "buenos oficios" (mediación independiente e imparcial) para evitar controversias.
 
-# Parte2
+# Clase 6,7,8
 
 ### Clase 6: Individuo 
 
 1\. Protección diplomática a. ¿En qué consiste?  
-Es la invocación por un Estado, mediante la acción diplomática u otros medios de solución pacífica, de la responsabilidad de otro Estado por un perjuicio causado por un hecho internacionalmente ilícito a una persona física o jurídica que es su nacional, con miras a hacer efectiva esa responsabilidad
+Es un recurso donde un Estado asume, por derecho propio, la causa de uno de sus nacionales por un perjuicio sufrido como resultado de un hecho internacionalmente ilícito de otro Estado.
 
 1.b. ¿cuáles son los requisitos para poder ejercer la protección diplomática?
 
@@ -874,8 +874,8 @@ Es la invocación por un Estado, mediante la acción diplomática u otros medios
 
 1\. c. ¿Qué particularidades existen respecto de la nacionalidad de las personas físicas y jurídicas?
 
-* Personas físicas: Se rige por el jus soli, jus sanguinis o naturalización. Se requiere continuidad: la persona debe ser nacional desde el momento del perjuicio hasta la presentación oficial de la reclamación. Existen excepciones para apátridas y refugiados que tengan residencia legal y habitual en el Estado reclamante.  
-* Personas jurídicas (sociedades): El Estado de nacionalidad es, por regla general, donde se constituyó la sociedad. Si la sociedad está controlada por nacionales de otros Estados, no tiene actividad sustancial en el Estado de constitución y su sede de administración está en otro lugar, ese otro Estado puede ser considerado el de su nacionalidad
+* Personas físicas: Se requiere continuidad: la persona debe ser nacional desde el momento del perjuicio hasta la presentación oficial de la reclamación. Existen excepciones para apátridas y refugiados que tengan residencia legal y habitual en el Estado reclamante.  
+* Personas jurídicas (sociedades): El Estado de nacionalidad es, por regla general, donde se constituyó la sociedad. Si la sociedad está controlada por nacionales de otros Estados, no tiene actividad sustancial en el Estado de constitución y su sede de administración está en otro lugar, ese otro Estado puede ser considerado el de su nacionalidad.
 
 1,d. ¿Qué excepciones existen al agotamiento de los recursos internos?  
 No es necesario agotarlos cuando:
@@ -886,44 +886,50 @@ No es necesario agotarlos cuando:
 * La persona esté manifiestamente impedida de ejercer los recursos.  
 * El Estado infractor haya renunciado expresamente a este requisito.
 
-2\. ¿Cuáles son las funciones, composición y criterios de admisibilidad de la Comisión y de la Corte Interamericana de Derechos Humanos? ¿Quiénes pueden presentar reclamos en cada uno de esos órganos? ¿Quiénes, ante qué órgano y por qué razones pueden solicitar opiniones consultivas?
+2.a. ¿Cuáles son las funciones, composición y criterios de admisibilidad de la Comisión y de la Corte Interamericana de Derechos Humanos? 
 
 * Comisión Interamericana (CIDH): Se compone de 7 miembros elegidos a título personal por la Asamblea General de la OEA. Su función principal es promover la observancia y defensa de los derechos humanos.  
 * Corte Interamericana (Corte IDH): Es el órgano judicial del sistema.
 
-Quiénes pueden presentar reclamos:
+2.b. ¿Quiénes pueden presentar reclamos en cada uno de esos órganos?
 
 * Ante la Comisión: Cualquier persona, grupo de personas o entidad no gubernamental legalmente reconocida en los Estados miembros de la OEA.  
 * Ante la Corte: Sólo los Estados Partes y la Comisión tienen derecho a someter un caso ante ella.
 
-Opiniones consultivas: Pueden ser solicitadas a la Corte IDH por los Estados miembros de la OEA o por los órganos de la OEA. El motivo es la interpretación de la Convención Americana o de otros tratados concernientes a la protección de los derechos humanos en los Estados americanos.
+2.c. ¿Quiénes, ante qué órgano y por qué razones pueden solicitar opiniones consultivas?  
+Pueden ser solicitadas a la Corte IDH por los Estados miembros de la OEA o por los órganos de la OEA. El motivo es la interpretación de la Convención Americana o de otros tratados concernientes a la protección de los derechos humanos en los Estados americanos.
 
-3\. Protocolo facultativo del Pacto internacional de derechos civiles y políticos, a. ¿quién puede presentar comunicaciones?  
+3\. a. Protocolo facultativo del Pacto internacional de derechos civiles y políticos, ¿quién puede presentar comunicaciones?  
 Los individuos que se consideren víctimas de violaciones de cualquiera de los derechos enunciados en el Pacto por parte de un Estado que sea parte del Protocolo.
 
-3.b. ¿Cuáles son los requisitos de admisibilidad?  
-Aunque las fuentes mencionan al Comité de Derechos Humanos como el órgano receptor de estas comunicaciones bajo los "Cuerpos de Tratados" de la ONU, no detallan los requisitos específicos de admisibilidad en los fragmentos de texto provistos
+3.b. ¿Cuáles son los requisitos de admisibilidad?
+
+* Competencia del Estado: El Estado denunciado debe ser parte tanto del Pacto y del Protocolo.  
+* Calidad de víctima: Debe ser la persona afectada o por un tercero con consentimiento.  
+* Agotamiento interno: No se exige el agotamiento si los procesos internos sufren demoras injustificadas.  
+* Ausencia de duplicidad: No puede estar siendo examinado por otro procedimiento de investigación o arreglo internacional.  
+* Fundamentación: La demanda no debe ser anónima, ni constituir un abuso del derecho, ni ser incompatible con las disposiciones del Pacto.
 
 4\. ¿Cuáles son las características y cuál es la diferencia entre crimen de genocidio y crimen de lesa humanidad?
 
 * **Genocidio**: Actos perpetrados con la intención de destruir total o parcialmente a un grupo nacional, étnico, racial o religioso como tal. Su rasgo distintivo es el "dolo especial" de destruir al grupo.  
 * **Lesa Humanidad**: Actos cometidos como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento de dicho ataque.
 
-**Diferencia clave**: El genocidio requiere la intención específica de destruir un grupo determinado, mientras que los crímenes de lesa humanidad se dirigen contra una población civil en general en el marco de un ataque organizado
+**Diferencia clave**: El genocidio requiere la intención específica de destruir un grupo determinado, mientras que los crímenes de lesa humanidad se dirigen contra una población civil en general en el marco de un ataque organizado.
 
 5\. ¿Qué es y cuáles son las características de la jurisdicción universal? ¿En qué se diferencia de la jurisdicción de la Corte Penal Internacional?  
 **Jurisdicción Universal**: Es la facultad de los tribunales nacionales de juzgar crímenes internacionales (guerra, lesa humanidad, genocidio) independientemente del lugar de comisión o la nacionalidad del autor o la víctima, debido a su naturaleza erga omnes  
-**CPI**: Es una institución internacional permanente. Se diferencia en que su jurisdicción es complementaria a las nacionales y se activa principalmente por la ratificación del Estatuto de Roma o remisiones del Consejo de Seguridad de la ONU
+**CPI**: Es una institución internacional permanente. Se diferencia en que su jurisdicción es complementaria a las nacionales y se activa principalmente por la ratificación del Estatuto de Roma o remisiones del Consejo de Seguridad de la ONU.
 
 6\. ¿El tribunal de Nuremberg tenía competencia para juzgar qué categorías de crímenes?  
-Tenía competencia para juzgar tres categorías de crímenes: crímenes contra la paz (agresión), crímenes de guerra y crímenes contra la humanidad.
+Tenía competencia para juzgar tres categorías de crímenes: crímenes contra la paz (agresión), crímenes de guerra y crímenes de lesa humanidad.
 
 7\. ¿La Corte Penal Internacional tiene competencia para juzgar qué categorías de crímenes y qué delitos?  
 **Categorías de crímenes (Art. 5\)**: Genocidio, crímenes de lesa humanidad, crímenes de guerra y el crimen de agresión.  
 **Otros delitos**: Delitos contra la administración de justicia cometidos intencionalmente, como falso testimonio, presentar pruebas falsas, soborno de funcionarios de la Corte o represalias contra ellos.
 
 8\. ¿Qué implica que la CPI tiene jurisdicción complementaria?  
-Implica que la CPI no sustituye a las jurisdicciones nacionales, sino que solo interviene cuando el Estado que tiene jurisdicción no está dispuesto a llevar a cabo la investigación o el enjuiciamiento o no puede realmente hacerlo (por colapso de su sistema judicial).
+Implica que la CPI no sustituye a las jurisdicciones nacionales, sino que sólo interviene cuando el Estado que tiene jurisdicción no está dispuesto a llevar a cabo la investigación o el enjuiciamiento o no puede realmente hacerlo (por colapso de su sistema judicial).
 
 9\. ¿Cuáles son las cuatro situaciones en que la CPI puede ejercer su jurisdicción?  
 La Corte puede ejercer su competencia si:
@@ -941,38 +947,39 @@ La Corte puede ejercer su competencia si:
 
 2\. ¿Qué tipos de responsabilidad internacional hay en el derecho internacional?
 
-* Responsabilidad por actos internacionalmente ilícitos: Se genera cuando un Estado viola una obligación internacional vigente a través de sus órganos o funcionarios.  
-* Responsabilidad por actos no prohibidos (sine delicto o por riesgo): Ocurre cuando una actividad lícita pero altamente riesgosa (como el transporte de sustancias peligrosas o el envío de objetos al espacio) causa un daño transfronterizo que genera la obligación de reparar
+* Por hechos ilícitos: Se genera cuando un Estado viola una obligación internacional vigente a través de sus órganos o funcionarios.  
+* Por hechos no prohibidos (sine delicto o por riesgo): Ocurre cuando una actividad lícita pero altamente riesgosa (como el transporte de sustancias peligrosas o el envío de objetos al espacio) causa un daño transfronterizo que genera la obligación de reparar.
 
 3\. ¿Cuál es la diferencia entre normas primarias y normas secundarias?  
 **Normas primarias**: Son aquellas que imponen obligaciones sustantivas a los Estados (ej. no agredir, cumplir un tratado).  
 **Normas secundarias**: Son las que regulan la responsabilidad internacional y sus consecuencias jurídicas, operando específicamente ante la violación de una norma primaria.
 
-4\. ¿Cuáles son los elementos del hecho internacionalmente ilícito del Estado? ¿Cuáles son las implicancias de que se incluyan esos elementos y no otros?  
-Los elementos son dos: a) Atribución de un comportamiento (acción u omisión) al Estado según el derecho internacional; y b) Violación de una obligación internacional del Estado.  
-**Implicancias**: Al limitarse a estos dos elementos, se establece que la responsabilidad es objetiva; no se requiere probar la existencia de un daño material o moral, ni la intención (dolo o culpa) para que nazca la responsabilidad, a menos que la norma primaria violada así lo exija
+4.a. ¿Cuáles son los elementos del hecho internacionalmente ilícito del Estado?   
+Los elementos son dos: a) una accion o una omision es atribuible a un estado; y b) Constituye una violación obligación internacional del Estado.  
+4.b. ¿Cuáles son las implicancias de que se incluyan esos elementos y no otros?  
+Al limitarse a estos dos elementos, se establece que la responsabilidad es objetiva; no se requiere probar la existencia de un daño material o moral, ni la intención para que nazca la responsabilidad, a menos que la norma primaria violada así lo exija.
 
 5\. ¿Cuál es el lugar/relevancia de la intención y el daño en la responsabilidad internacional?  
-**Daño**: No es un elemento constitutivo general del hecho ilícito, aunque es fundamental para determinar la forma y el alcance de la reparación (reparar el perjuicio causado).  
+**Daño**: No es un elemento constitutivo. Pero es fundamental para determinar la forma y el alcance de la reparación.  
 **Intención** (Dolo/Culpa): No es necesaria para generar responsabilidad internacional por regla general. Solo es relevante si la obligación primaria específicamente la requiere (ej. la Convención contra la Tortura define el acto como algo infligido "intencionadamente").
 
 6\. ¿Cuáles son los diferentes comportamientos atribuibles al Estado? ¿Cuáles son los más comunes? ¿Qué ejemplos puede dar de c/u?
 
-* **Órganos del Estado**: Cualquier órgano (ejecutivo, legislativo, judicial) sin importar su jerarquía. Ejem: El incumplimiento de una medida de la CIJ por parte del gobernador de Arizona en el caso La Grand.  
+* **Órganos del Estado**: Cualquier órgano (ejecutivo, legislativo, judicial) sin importar su jerarquía. Ej: El incumplimiento de una medida de la CIJ por parte del gobernador de Arizona en el caso La Grand.  
 * **Entidades con atribuciones públicas**: Personas o entidades que no son órganos pero ejercen poder público. Ejemplo: Empresas privadas que vigilan prisiones.  
 * **Órganos puestos a disposición por otro Estado**: Cuando actúan bajo la autoridad del Estado receptor. Ejemplo: La policía suiza actuando en Liechtenstein.  
-* **Actos ultra vires**: Comportamientos de órganos o agentes que actúan en su capacidad oficial pero exceden su competencia. Ejemplo: Actos lesivos de funcionarios identificados como tales en el caso Velásquez Rodríguez.  
-* **Bajo dirección o control**: Personas que actúan siguiendo instrucciones del Estado. Ejemplo: Los "contras" en Nicaragua (ciertos actos de planificación atribuidos a EE. UU.).  
+* **Actos que exceden la competencia**: Comportamientos de órganos o agentes que actúan en su capacidad oficial pero exceden su competencia. Ejemplo: A la policía se le va la mano.  
+* **Bajo dirección o control**: Personas que actúan siguiendo de hecho instrucciones del Estado. Ejemplo: Los "contras" en Nicaragua (ciertos actos de planificación atribuidos a EE. UU.).  
 * **Ausencia de autoridades oficiales**: Personas que ejercen funciones públicas en situaciones de vacío de poder. Ejemplo: Guardias revolucionarios en el aeropuerto de Teherán
 
 7\. Explicar brevemente por qué la CIJ consideró que los actos de los militantes eran atribuibles a Irán en el caso del Personal diplomático y consular de los EE.UU. en Teherán.   
-La CIJ consideró que los actos de los militantes fueron atribuibles a Irán porque, aunque inicialmente fueron actos de particulares, el Estado iraní posteriormente reconoció y adoptó ese comportamiento como propio a través de declaraciones oficiales del Ayatollah Khomeini que aprobaron la ocupación de la embajada y la toma de rehenes
+La CIJ consideró que los actos de los militantes fueron atribuibles a Irán porque el Estado iraní reconoció ese comportamiento como propio a través de declaraciones oficiales del Ayatollah Khomeini que aprobaron la ocupación de la embajada y la toma de rehenes.
 
 8\. Violación de una obligación internacional: ¿Cuál es la diferencia entre obligación continua, no continua y hechos compuestos? ¿Qué ejemplos pueden darse de cada uno?
 
 * **Hecho no continuo**: Ocurre en el momento en que se produce el acto, aunque sus efectos perduren. Ejemplo: El lanzamiento de un misil contra un buque.  
 * **Hecho continuo**: La violación se extiende durante todo el período en que el hecho se mantiene en falta de conformidad. Ejemplo: Una desaparición forzada de personas o el mantenimiento de rehenes.  
-* Hecho compuesto: Serie de acciones u omisiones definidas en su conjunto como ilícitas. Ejemplo: Actos sistemáticos de discriminación racial o genocidio.
+* **Hecho compuesto**: Serie de acciones u omisiones definidas en su conjunto como ilícitas. Ejemplo: Actos sistemáticos de discriminación racial o genocidio.
 
 9\. Responsabilidad del Estado en relación con el hecho de otro Estado: a. ¿qué ejemplos pueden dar de prestar ayuda o asistencia, dirigir y controlar, o coaccionar a otro Estado?
 
@@ -984,21 +991,21 @@ b.  ¿Cuáles son los dos elementos que deben darse para que sea responsable un 
 1\) Conocer las circunstancias del hecho ilícito; y 2\) Que el hecho sería ilícito si fuera cometido por el Estado que ayuda o controla
 
 10\. a. ¿Cuáles son las circunstancias que excluyen la ilicitud? ¿Cuáles son sus requisitos? ¿Qué ejemplos pueden darse de cada una de ellas?  
-Funcionan como defensas para excusar el incumplimiento.
+Excluyen la ilicitud significa que son cosas que justifican que el incumplimiento de una obligación por parte de un Estado no sea considerado un acto ilícito. Funcionan como defensas para excusar el incumplimiento.
 
 * **Consentimiento**: Válido, previo y dentro de límites. Ejemplo: Autorizar el ingreso de tropas extranjeras para ejercicios militares.  
 * **Legítima defensa**: Según la Carta de la ONU.  
 * **Contramedidas**: Medidas en respuesta a un ilícito previo de otro Estado para inducirlo a cumplir.  
 * **Fuerza mayor**: Fuerza irresistible o acontecimiento imprevisto ajeno al control que hace materialmente imposible cumplir. Ejemplo: Un buque que entra en aguas prohibidas por un maremoto.  
-* **Peligro extremo (Distress)**: Único modo de salvar la vida propia o de personas a cargo. Ejemplo: Avión que aterriza sin permiso por emergencia médica a bordo.  
-* **Estado de necesidad**: Único modo de salvaguardar un interés esencial contra un peligro grave e inminente. Ejemplo: Necesidad ecológica en el caso Gabcikovo-Nagymaros
+* **Peligro extremo**: Único modo de salvar la vida propia o de personas a cargo. Ejemplo: Avión que aterriza sin permiso por emergencia médica a bordo.  
+* **Estado de necesidad**: Único modo de salvaguardar un interés esencial contra un peligro grave e inminente. Ejemplo: represión en el 2001 en Argentina.
 
 10.b. ¿Cuáles son las consecuencias de que se aplique una circunstancia que excluye la ilicitud?  
 Excluyen la ilicitud pero no el deber de cumplir si la circunstancia cesa, ni la posibilidad de indemnizar pérdidas efectivas. Nunca justifican la violación de normas imperativas (jus cogens).
 
 11\. ¿Cuáles son las consecuencias jurídicas del hecho internacionalmente ilícito?
 
-* Continuidad del deber de cumplir la obligación violada.  
+* Volver a cumplir la obligación que en un momento fue violada.  
 * Cesación y no repetición: Poner fin al hecho si continúa y ofrecer garantías de que no se repetirá.  
 * Reparación íntegra del perjuicio causado (daño material y moral).
 
@@ -1024,7 +1031,180 @@ La retorsión no está detallada técnicamente como las contramedidas en estos a
 
 16\. ¿Quién puede invocar la responsabilidad internacional según los arts. 42 a 48?
 
-* Estado lesionado: Tiene derecho si la obligación le es debida individualmente, o si forma parte de un grupo y la violación le afecta especialmente o modifica radicalmente la situación de los demás.  
-* Estado distinto del lesionado: Puede invocarla si la obligación protege un interés colectivo del grupo (ej. derechos humanos) o si es una obligación erga omnes debida a la comunidad internacional en su conjunto. Puede reclamar la cesación, garantías de no repetición y la reparación en interés del Estado lesionado
+* **Estado lesionado**: Tiene derecho si la obligación le es debida individualmente, o si forma parte de un grupo y la violación le afecta especialmente o modifica radicalmente la situación de los demás.  
+* **Estado distinto del lesionado**: Puede invocarla si la obligación protege un interés colectivo del grupo (ej. derechos humanos) o si es una obligación erga omnes debida a la comunidad internacional en su conjunto. Puede reclamar la cesación, garantías de no repetición y la reparación en interés del Estado lesionado
+
+### Clase 8: Solución pacífica de controversias
+
+1\. ¿Cuáles son las principales normas consuetudinarias vinculadas con la solución pacífica de controversias y cómo están reguladas en la Carta de la NU?  
+Es una norma consuetudinaria fundamental en el derecho internacional moderno. Este principio es la consecuencia directa de la prohibición de la amenaza o el uso de la fuerza en las relaciones internacionales (Art. 2.4 de la Carta).  
+Carta ONU, este principio está regulado de las siguientes maneras:
+
+* Art. 1, inc. 1 (Propósitos): Establece como fin de la Organización "lograr por medios pacíficos, y de conformidad con los principios de la justicia y del derecho internacional, el ajuste o arreglo de controversias o situaciones internacionales...".  
+* Art. 2, inc. 3 (Principios): Consagra la obligación de los Miembros de arreglar sus controversias internacionales por medios pacíficos, de tal manera que no se pongan en peligro ni la paz y la seguridad internacionales ni la justicia.  
+* Capítulo VI ("Arreglo pacífico de controversias"): Desarrolla los mecanismos aplicables. Su artículo clave es el Art. 33, inc. 1, que obliga a las partes en una controversia cuya continuación pueda amenazar la paz a buscarle solución, ante todo, mediante la negociación, la investigación, la mediación, la conciliación, el arbitraje, el arreglo judicial, el recurso a organismos o acuerdos regionales u otros medios pacíficos de su elección.
+
+2\. ¿Qué es una controversia o disputa para el derecho internacional?  
+La jurisprudencia y doctrina internacional la han definido de forma precisa:
+
+* Corte Permanente de Justicia Internacional (Caso Mavrommatis, 1924): Una disputa es "un desacuerdo sobre un punto de hecho o de derecho, un conflicto de opiniones legales o de intereses".  
+* Corte Internacional de Justicia (Caso África Sudoccidental, 1962): Para que exista una disputa, debe demostrarse objetivamente que "un reclamo de una parte sea positivamente opuesto por la otra".  
+* Doctrina Arbitral (Caso Maffezini, 2000): La disputa presupone un mínimo de comunicación en la que una de las partes plantea un problema a la otra y esta se opone a tal posición de forma directa o indirecta.
+
+3\. ¿Cuáles son las principales características y diferencias entre medios diplomáticos y jurisdiccionales de solución pacífica de controversias?  
+Medios Diplomáticos (Negociación, buenos oficios, mediación, investigación, conciliación):
+
+* Consentimiento en el resultado: Requieren el acuerdo de las partes para aceptar los términos del arreglo final. Las partes pueden aceptarlas o rechazarlas libremente.  
+* Criterio de resolución: El arreglo puede basarse en criterios políticos, económicos, de conveniencia práctica o de equidad, sin estar obligado a aplicar el derecho internacional.  
+* Participación de terceros: La negociación se realiza directamente entre las partes; los demás métodos involucran a un tercero (otro E, una OI o un individuo de prestigio) que no requiere tener conocimientos jurídicos obligatorios.
+
+Medios Jurisdiccionales (Arbitraje y arreglo judicial):
+
+* Carácter vinculante: Culminan con una decisión/sentencia obligatoria y definitiva.  
+* Criterio de resolución: La decisión se funda estrictamente en derecho internacional, salvo cuando las partes autoricen expresamente al tribunal a fallar ex aequo et bono (en equidad).  
+* Participación de terceros: Siempre interviene un tercero imparcial (jueces o árbitros) que suele contar con sólida formación jurídica.  
+* Consentimiento previo: Requieren que las partes hayan dado su consentimiento previo para darle jurisdicción al órgano en el caso concreto.
+
+4\. ¿Cuáles son las principales características y diferencias entre negociación, buenos oficios, mediación, investigación y conciliación?  
+Todos son métodos diplomáticos que se distinguen principalmente por el grado de participación del tercero:
+
+* Negociación: Es el método directo y originario. Las partes intentan buscar una solución por sí mismas (sin la intervención de ningún tercero).  
+* Buenos Oficios: Se recurre a ellos cuando las partes están muy distanciadas o han roto relaciones. Consisten en la intervención de un tercero neutral (un jefe de Estado, el Papa, el Secretario General de la ONU, etc.) cuyo único rol es aproximar a las partes y facilitar que reanuden las negociaciones directas, pero el tercero no participa en las negociaciones ni propone una solución.  
+* Mediación: El mediador tiene un rol más activo que en los buenos oficios; no sólo aproxima a las partes, sino que se sienta con ellas en la mesa de negociación, asistiéndolas de forma directa y confidencial, buscando reconciliar las pretensiones opuestas y proponer soluciones aceptables.  
+* Investigación (o encuesta): Es un peritaje técnico en el que una comisión determina y clarifica de manera imparcial las cuestiones "de hecho" de la controversia. Su informe se limita a la verificación fáctica, no propone soluciones y las partes conservan plena libertad de acción (no laudo).  
+* Conciliación: Es un método más formal y estructurado. Una comisión neutral investiga los hechos (actuando primero como órgano de investigación) y luego presenta un informe que propone una solución definitiva. Esta propuesta no es vinculante, aunque puede ejercer una fuerte presión.
+
+5\. La negociación es un proceso informal. Puede llevarse a cabo de la manera que las partes quieran y no tiene que seguir ningún proceso o principio. ¿Hasta qué punto es cierta esta afirmación?  
+Esta afirmación sólo es cierta de manera parcial:
+
+* En qué sentido es cierta: Es un proceso directo entre los Estados que carece de una estructura preestablecida obligatoria de carácter universal, las partes tienen amplia libertad para hacerlo.  
+* En qué sentido es falsa (sus límites):  
+  * Sometimiento obligatorio como paso previo: Muchos tratados estipulan de forma obligatoria que las partes deben agotar la negociación directa antes de poder activar un método jurisdiccional (como el arbitraje o la CIJ).  
+  * La obligación de medios y la buena fe: La negociación no garantiza un resultado, pero constituye una obligación de medios. El derecho internacional y los tribunales (como el TIDM) exigen que las negociaciones se realicen de buena fe; un Estado no puede simular negociar o bloquear irrazonablemente el diálogo.  
+  * Tratados multilaterales: Acuerdos como la CONVEMAR obligan formalmente a las partes a proceder "sin demora" a un intercambio de opiniones con miras a negociar ante el surgimiento de una disputa.
+
+6\. Solución de controversias en la Carta de ONU: ¿cuáles son las funciones, límites y votación del CS, AG y Secretaría en la solución pacífica de controversias?  
+Consejo de Seguridad (CS):
+
+* Funciones: Puede instar a las partes a que solucionen sus disputas (Art. 33); investigar cualquier controversia o situación para determinar si amenaza la paz internacional (Art. 34); recomendar los procedimientos o métodos de ajuste que considere apropiados (Art. 36.1); o, si fracasan los medios del Art. 33, recomendar directamente los términos concretos de arreglo (Art. 37.2). Si todas las partes lo piden, puede hacer recomendaciones de arreglo pacífico sin más limitaciones (Art. 38).  
+* Límites: Su campo de acción se circunscribe a controversias cuya continuación sea susceptible de poner en peligro el mantenimiento de la paz y la seguridad internacionales. Al hacer recomendaciones, debe tomar en cuenta los procedimientos ya adoptados por las partes y que las disputas jurídicas deben ser sometidas a la CIJ.  
+* Votación (Art. 27.3): Las decisiones sobre el Capítulo VI ("Arreglo pacífico") se toman por mayoría de nueve votos, incluyendo los afirmativos de los miembros permanentes; sin embargo, el miembro del CS que sea parte en la controversia objeto de votación tiene la obligación de abstenerse de votar.
+
+Asamblea General (AG):
+
+* Funciones: Puede recomendar medidas para el arreglo pacífico de cualquier situación, sea cual fuere su origen, que pueda perjudicar el bienestar general o las relaciones amistosas (Art. 14).  
+* Límites: El principal límite es el Art. 12.1: mientras el CS esté desempeñando sus funciones respecto de una controversia o situación, la AG no podrá hacer recomendación alguna sobre el tema, a menos que el CS se lo solicite expresamente.
+
+Secretaría / Secretario General (SG):
+
+* Funciones: El SG puede llamar la atención del CS hacia cualquier asunto que pueda poner en peligro el mantenimiento de la paz y la seguridad internacionales (Art. 99). Ejerce funciones políticas, diplomáticas y de buenos oficios o mediación que le encomienden la AG o el CS (Art. 98\) para evitar que las disputas escalen.
+
+7\. ¿Cuáles son las principales características y diferencias entre arbitraje y arreglo judicial?  
+Características comunes: Ambos son métodos jurisdiccionales, resuelven disputas de naturaleza jurídica aplicando el derecho internacional (salvo pacto ex aequo et bono), requieren el consentimiento previo de los Estados para otorgar jurisdicción y culminan en sentencias obligatorias y definitivas.  
+Diferencias principales:
+
+* Preconstitución del órgano: En el arreglo judicial, el órgano es un tribunal preconstituido y de carácter permanente (como la CIJ o el TIDM). En el arbitraje, los árbitros son elegidos por las partes específicamente para resolver esa controversia en particular.  
+* Autonomía de las partes en el procedimiento: En el arbitraje, las partes conservan una amplia libertad para pactar las reglas procesales (idioma, plazos, presentación de pruebas). En el arreglo judicial, el procedimiento está fuertemente limitado por las normas estatutarias e institucionales del propio tribunal permanente.  
+* Naturaleza "transaccional" vs. "Autonomía formal": El tribunal arbitral tiende a comportarse como un órgano de las partes para una "justicia transaccional", mientras que el tribunal judicial permanente actúa con total autonomía formal frente a los litigantes, buscando que su fallo trascienda a las partes y beneficie a la comunidad internacional en su conjunto.
+
+8\. ¿Qué diferencias hay entre la conciliación y el arbitraje? Pensar en al menos tres.
+
+* Fuerza jurídica del resultado: El laudo arbitral es obligatorio, definitivo y vinculante para las partes. El informe y la propuesta de la comisión de conciliación no son jurídicamente obligatorios (los Estados son libres de aceptarlos o rechazarlos).  
+* Derecho aplicable para resolver: El tribunal arbitral debe fundamentar obligatoriamente su decisión en el derecho internacional. La comisión de conciliación puede apoyarse en criterios políticos, de conveniencia, económicos o de equidad, sin estar atada a normas de derecho estricto.  
+* Rol del tercero (Adjudicación vs. Mediación): En el arbitraje, el tribunal actúa como un juez que "adjudica" derechos y determina responsabilidades. En la conciliación, el tercero actúa como un mediador e investigador formal que elabora sugerencias y recomendaciones no vinculantes.
+
+9\. ¿A qué se suele llamar arbitraje facultativo y arbitraje obligatorio?
+
+* Arbitraje facultativo (o ad hoc): Se presenta cuando los Estados otorgan su consentimiento para someterse al arbitraje con posterioridad al nacimiento de una controversia.  
+* Arbitraje obligatorio: Ocurre cuando los Estados han dado su consentimiento antes de que surja la controversia para disputas futuras. Esto se realiza mediante una cláusula compromisoria en un tratado sobre una materia específica o mediante un tratado general de solución pacífica de controversias.
+
+10\. ¿Qué similitudes y diferencias existen entre un laudo arbitral y el fallo de un tribunal internacional permanente?  
+Similitudes: Ambos tienen carácter definitivo e inapelable y son vinculantes para las partes en litigio respecto del caso decidido. Ambos aplican derecho internacional y son pasibles de recursos de interpretación y revisión bajo condiciones similares (como el descubrimiento de hechos nuevos).  
+Diferencias:
+
+* Origen de la obligatoriedad: El laudo arbitral deriva su fuerza del compromiso voluntario de los Estados de someterse al laudo de buena fe y del contrato de arbitraje. El fallo de un tribunal permanente (como la CIJ) extrae su fuerza directamente del Estatuto constitutivo del tribunal y, en el caso de la ONU, del compromiso del Art. 94 de la Carta.  
+* Ejecución: Ante el incumplimiento de un laudo arbitral, los mecanismos de ejecución dependen de lo acordado o de las leyes nacionales de ejecución de laudos. Ante el incumplimiento de un fallo de la CIJ, el Estado afectado tiene la facultad de recurrir directamente ante el Consejo de Seguridad para que este dicte medidas de ejecución (Art. 94.2 de la Carta).
+
+11\. La Corte Permanente de Arbitraje (CPA) es un tribunal en todos los aspectos y hace lo que suele hacer un tribunal de justicia normal. ¿Está de acuerdo con esta afirmación?  
+No, no es correcta. La doctrina y las fuentes aclaran expresamente que la CPA "no es técnicamente ni una 'corte' ni 'permanente'". La CPA es, en realidad, una organización intergubernamental que cuenta con:
+
+* Un Secretariado y un Consejo Administrativo permanentes con sede en el Palacio de la Paz de La Haya.  
+* Una lista de potenciales árbitros (donde cada Estado miembro propone hasta cuatro juristas).  
+* Reglamentos de procedimiento opcionales (basados en las reglas de la CNUDMI) puestos a disposición de las partes.  
+* Un espacio físico para albergar los tribunales que las partes decidan constituir.
+
+Por ende, la CPA no decide casos por sí misma ni tiene un cuerpo de jueces fijos; es un marco administrativo y de apoyo técnico que facilita a los Estados la creación de tribunales arbitrales ad hoc.
+
+12\. El arreglo judicial ante la Corte Internacional de Justicia (CIJ) y su competencia contenciosa. a. ¿Quiénes pueden recurrir a la corte y bajo qué circunstancias?  
+El tribunal está abierto a todos los Estados partes en su Estatuto (los miembros de la ONU lo son ipso facto) y a otros Estados bajo las condiciones fijadas por el CS.  
+¿Bajo qué circunstancias? Ante la existencia de una controversia de orden jurídico que verse sobre la interpretación de un tratado, cuestiones de derecho internacional, violación de obligaciones o la naturaleza de la reparación.  
+12.b. ¿Cuáles son los modos de aceptar la competencia de la Corte?  
+Modos de aceptar la competencia de la Corte (Art. 36):
+
+* Una vez que nace la controversia (jurisdicción a posteriori / facultativa):  
+  * Compromiso (o acuerdo especial): Acuerdo expreso e instrumental por el cual las partes deciden someter un litigio ya existente a la decisión de la Corte.  
+  * Forum prorogatum: Proceso informal en el que el demandante presenta una solicitud ante la Corte contra un Estado que aún no ha dado su consentimiento; la jurisdicción se establece cuando el Estado demandado responde a la solicitud.  
+* Previo a una controversia (jurisdicción a priori / obligatoria):  
+  * Tratados bilaterales o multilaterales (cláusulas compromisorias): Tratados vigentes sobre materias específicas que estipulan que las controversias futuras se someterán a la CIJ.  
+  * Declaraciones de la cláusula facultativa (Art. 36.2): Declaración unilateral por la que un Estado reconoce como obligatoria ipso facto y sin convenio especial, respecto a cualquier otro Estado que acepte la misma obligación, la jurisdicción de la Corte para futuras disputas.
+
+13\. ¿Cuáles son las diferencias entre jurisdicción/competencia y admisibilidad? ¿Cuáles son las principales etapas del procedimiento y características de cada una de ellas?  
+Diferencia entre Jurisdicción/Competencia y Admisibilidad:
+
+* La jurisdicción o competencia se refiere al poder legal intrínseco de la Corte para conocer y juzgar un asunto (determinado por el consentimiento de las partes y los límites ratione personae, loci, materiae y temporis).  
+* La admisibilidad se refiere a si la solicitud del demandante cumple con los requisitos necesarios para que la Corte pueda entrar a analizar el fondo (por ejemplo, que el individuo afectado haya agotado los recursos internos en su Estado, o que la decisión no afecte de forma directa a un tercer Estado indispensable que no es parte del litigio).
+
+Etapas del procedimiento contencioso (Art. 43):
+
+* Fase Escrita: Comprende la comunicación y depósito de piezas escritas ante la Secretaría.  
+* Memoria (o memorial): Presentado por el demandante; fundamenta los hechos, la jurisdicción, los argumentos jurídicos, las pruebas y el petitorio.  
+* Contramemoria (o contramemorial): Presentado por el demandado; responde formalmente a las alegaciones y presenta sus defensas.  
+* Réplica y Dúplica: Opcionales; si la Corte lo estima pertinente para responder a nuevos argumentos.  
+* Fase Oral: Son las audiencias públicas, donde se oye a los testigos, peritos, agentes, consejeros y abogados de las partes litigantes.  
+* Deliberación y Fallo: Tras los alegatos finales, el Presidente declara terminada la vista y la Corte se retira a deliberar en privado y en secreto (Art. 54). Se adopta el fallo motivado por mayoría de votos.
+
+14\. ¿Cuáles son el objeto, características y requisitos para adoptar medidas provisionales?  
+**Objeto**: Preservar de forma urgente los derechos de las partes en litigio o los bienes en disputa, evitar la alteración o pérdida de pruebas, o impedir que la controversia se agrave o extienda mientras se dicta la sentencia final.  
+**Características**: 
+
+* Tienen carácter jurídico vinculante y obligatorio para las partes (caso La Grand, 2001).  
+* Pueden ser ordenadas a petición de parte o de oficio por la propia Corte (Art. 75.1 del Reglamento).  
+* Se comunican de inmediato a las partes y al Consejo de Seguridad (Art. 41.2 del Estatuto).
+
+**Requisitos para su adopción (jurisprudencia consolidada)**:
+
+* Jurisdicción prima facie: Que exista, a primera vista, una base sólida de competencia de la Corte sobre el fondo del asunto.  
+* Urgencia y riesgo de perjuicio irreparable (Peligro en la demora): Que exista un riesgo real e inminente de que los derechos alegados sufran un daño irreversible antes de que se dicte el fallo definitivo.  
+* Conexión directa: Que los derechos cuya protección provisional se solicita estén directamente vinculados con el objeto de la demanda principal.  
+* La admisibilidad prima facie de la demanda y la no anticipación del fallo sobre el fondo del asunto.
+
+15\. Excepciones preliminares: ¿en qué consisten, sobre qué cuestiones pueden plantearse?  
+**En qué consisten**: Son defensas procesales planteadas por escrito por la parte demandada con el fin de solicitar que la Corte se pronuncie y decida sobre ellas antes de continuar con el procedimiento sobre el fondo del asunto. Al presentarse, se suspende automáticamente el procedimiento sobre el fondo.  
+**Cuestiones sobre las que pueden plantearse**:
+
+* Incompetencia o falta de jurisdicción  
+* Inadmisibilidad de la demanda: Argumentar que la demanda no es admisible por falta de legitimación del demandante, por falta de agotamiento de recursos internos en protección diplomática, o porque la decisión requiere juzgar el comportamiento ilícito de un tercer Estado que no forma parte del proceso y no ha dado su consentimiento.
+
+16\. ¿Cuáles son las características de un fallo de la CIJ, qué recursos pueden plantearse y cuáles son sus requisitos y características?  
+**Características del fallo**: Es obligatorio para las partes en litigio y respecto del caso decidido (Art. 59). Es definitivo e inapelable (Art. 60). Debe ser fundado, firmado y leído en sesión pública. Permite que los jueces que no compartan la opinión de la mayoría presenten opiniones disidentes, separadas o declaraciones.  
+**Recursos admisibles**:
+
+* Recurso de Interpretación (Art. 60):  
+  * Requisitos: Que exista un desacuerdo o diferencia de opinión real entre las partes sobre el sentido o el alcance del fallo.  
+  * Características: Puede solicitarlo cualquiera de las partes en cualquier momento (no hay plazo límite). Se limita a aclarar la cláusula operativa del fallo. No puede utilizarse para obtener respuestas sobre puntos que no se decidieron en la sentencia original.  
+* Recurso de Revisión (Art. 61):  
+  * Requisitos: Debe fundarse en el descubrimiento de un hecho nuevo que, de haberse conocido, hubiera sido un factor decisivo para el fallo.  
+  * Plazos: Debe interponerse dentro de los seis meses de descubierto el hecho nuevo, y nunca una vez transcurridos diez años desde la fecha de la sentencia original.
+
+17\. Competencia consultiva ante la CIJ: ¿quién la puede solicitar? ¿Cuáles son los requisitos? ¿Cuáles son su naturaleza jurídica y sus efectos?  
+**¿Quién la puede solicitar?** Solo los órganos autorizados de la ONU y los organismos especializados de su sistema (Art. 96 de la Carta). Los Estados no tienen derecho a solicitar opiniones consultivas.  
+**Requisitos de procedencia** (Art. 96 de la Carta): 
+
+* Si la solicita la AG o el CS, el pedido puede versar sobre "cualquier cuestión jurídica" (Art. 96.1).   
+* Si la solicitan otros órganos de la ONU u organismos especializados (como la OMS), deben contar con la autorización previa de la AG y el pedido debe referirse estrictamente a cuestiones jurídicas que surjan "dentro de la esfera de sus actividades" (Art. 96.2).
+
+**Naturaleza jurídica y efectos**: Consiste en un dictamen o consejo jurídico no contencioso emitido en audiencia pública.
+
+* Efectos: Por regla general, las opiniones consultivas no tienen carácter jurídicamente vinculante ni obligatorio para los Estados u organismos. No obstante, gozan de una enorme autoridad legal y moral en el derecho internacional. Existen además cláusulas especiales en diversos tratados que otorgan fuerza obligatoria de facto a las opiniones consultivas dictadas por la CIJ en materias de disputas institucionales (como la Convención de Privilegios e Inmunidades de la ONU de 1946).
 
 [image1]: <data:image/png;base64,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>
