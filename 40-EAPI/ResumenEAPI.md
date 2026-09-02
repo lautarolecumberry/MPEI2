@@ -216,3 +216,99 @@ Ontología: Intersubjetividad
 Preguntas andrea:
 
 * El campo intermedio está distinto en las filminas que en el paper, que onda?
+
+# Marxismo, Teorias Criticas
+
+**Marxismo**
+
+Contexto histórico: Caída de la URSS
+
+* Se puede volver a la teoría marxista porque no se contrasta con lo que hacen los países socialistas.  
+* Distribución desigual de la riqueza internacional
+
+Teoría marxista:
+
+* Objetivo: emancipación humana  
+* Compromiso científico: interpretar y cambiar la realidad  
+  * El mundo es desigual e injusto, hay que emanciparse. El objetivo es la emancipación.  
+  * El analista no es un observador neutral, está situado.  
+* Historia es materialista  
+  * Están quienes tienen los medios de producción y quienes no.  
+    * Esa es la división de clases que lleva a la lucha de clases.  
+    * Hay una división en la estructura económica. Como toda estructura es rígida y se perpetúa en el tiempo.  
+    * Por eso es un sistema propenso a la lucha de clases  
+  * Los cambios van a surgir de la tecnología (material) y de ahi van a venir los cambios sociales  
+* Hay una estructura económica (medios de producción) y una superestructura política, legal, cultural
+
+Críticas:
+
+* Subestima muchas cosas:  
+  * Nacionalismos: el marxismo es previo a los Estado-nación, no ve su auge. Pensaban en una fuerza internacional del proletariado.  
+  * Los Estados: por lo mismo de arriba.  
+  * El DIP: es parte de la superestructura que permite mantener la opresión. 
+
+Marxismo en RRII:
+
+* Lenin (1917) *Imperialism: The Highest Stage of Capitalism*  
+* Prebisch (1949) Teoría de la dependencia: Deterioro relativo de los términos de intercambio entre el centro y la periferia  
+* Wallerstein (1979) World-Systems Theory:  
+  * Hay un centro, una semiperiferia y una periferia.  
+  * La periferia provee a los otros dos de mano de obra barata y materias primas  
+  * El centro provee a los otros dos de bienes de consumo de alto valor  
+  * La semi periferia provee de mano de obra un poco más barata al núcleo y de productos sin tanto valor a la periferia.  
+  * Hay elites de la periferia que responden a los intereses más con el centro que con la periferia.  
+    * Esto hace difícil romper el modelo de centro y periferia.
+
+Gramsci
+
+* Concepto de hegemonía de las clases dominantes  
+* La superestructura es más importante que la estructura  
+  * Hegemonía de las clases dominantes. Las clases dominantes convencen mediante la superestructura a las clases dominadas que esta es la mejor realidad posible.  
+  * Las instituciones de la sociedad civil son muy importantes en la perpetuación de la realidad.  
+  * La superestructura es un centauro: combina consentimiento y coerción mediante la fuerza.  
+  * Menos materialista, es la superestructura es más amplia que solamente la estructura económica.
+
+**Teorias criticas**
+
+Cox: (1981) Social Forces, States, and World Orders: Beyond International  
+Relations Theory
+
+* “La teoría siempre es para alguien, siempre tiene algún propósito”  
+  * Con esto bardea directamente al positivismo  
+  * Las teorías reproducen y perpetúan las relaciones de dominación  
+* Teorías problem-solving vs teorias criticas  
+  * Teorias problem solving:  
+    * Le ponen parches a las teorías que ya reproducen las relaciones de dominación.  
+      * Estabilizan estructuras de desigualdad de poder y riqueza  
+    * Positivistas  
+    * Hacen pasar por naturales cosas que son demostraciones de poder.  
+      * No cuestionan la realidad social, la legitiman.  
+  * Teoría crítica  
+    * Sitúa el proceso cognitivo en su contexto político y social  
+    * Denuncia la construcción de las relaciones de poder.   
+    * Construyen un mundo más justo: no solo da respuestas sino que construye preguntas críticas  
+      * Es una metateoria: dice como deben ser las teorías.  
+        * Por eso hay feminismo crítico, colonialismo crítico, etc  
+* Hegemonía internacional  
+  * Toma el concepto de Gramsci.  
+  * La hegemonía crea consentimiento en la clase hegemónica
+
+Críticas a las teorías tradicionales
+
+* Critica epistemologica al positivismo   
+  * No hay conocimiento objetivo, el conocimiento se produce en un contexto histórico y social  
+  * Por eso se dicen post-positivistas  
+* Crítica metodológica:  
+  * El método tampoco es objetivo. Parece objetivo pero en realidad se usa para replicar los mecanismos de dominación.  
+  * Debe empezar por una reflexión del investigador para ver cuales son sus sesgos. Una vez sabe sus sesgos, puede hacer el análisis.  
+  * Haciendo un análisis histórico crítico (viendo cómo se construyeron los conceptos) podemos entender mejor el presente  
+  * La meta es la emancipación para poder hacer un futuro mejor.  
+* Crítica ontológica  
+  * Viene de lo metodológico.
+
+
+Teorias criticas vs constructivismo
+
+* Teorías críticas hay una intención de cambiar para hacer algo mejor  
+* El Constructivismo solo construye conocimiento, mete la parte ideológica y social. Pero no vienen a cuestionar tanto, no cuestiona el positivismo
+
