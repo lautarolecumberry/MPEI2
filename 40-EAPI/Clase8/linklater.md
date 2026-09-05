@@ -16,7 +16,7 @@ La teoria critica tiene 4 puntos fundamentales:
 # Critique of the immutability thesis
 - La teoria critica dice que los humanos hacen su propia historia y pueden hacerla distinto. 
     - La inmutabilidad de la estructura es un gran punto de choque.
-- Las TC:
+- Las Teorias Criticas:
     - Problematiza y transforma las convenciones sociales dadas. 
     - Los agentes humanos tienen la posibilidad de actuar colectivamente y liberarse de las restricciones estructurales.
 - La tesis de la inmutabilidad perpetua configuraciones historicas especificas de poder que:
@@ -35,7 +35,7 @@ La teoria critica tiene 4 puntos fundamentales:
     - El tejido social fue problematico desde el principio del sistema de Estados.
 - Como las bounded communities interactuan entre ellas es no trivial
 
-# Discourse ethics: irnplications for politics
+# Discourse ethics: implications for politics
 - El agente moral necesita balancear entre dos moralidades: la general (los principios universales) no tape a la la concreta (las necesidades de los individuos).
 - El dialogo abierto es imaginar que el universalismo dialogue para encontrar diferencias y este abierto a lo distinto.
     - Hay un punto peligroso donde la etica universal puede amenazar la diferencia cultural.
