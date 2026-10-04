@@ -63,3 +63,19 @@ Test de significancia individual
 - inf_i = alpha + beta * open_i + mu_i
 - Intercepto es el alpha
 	- Puedo interpretar el alpha SOLO cuando open_i = 0.
+
+## El modelo con k variables
+- Saco cosas del termino de error y las meto en una de las variables.
+	- Y no solo depende de X, sino de X_1, X_2, ..., X_k.
+- Agregamos muchas variables explicativas: Y_i = B_0 + B_1 X_1_i + B_2 X_2_i + ... + B_k X_k_i
+- Puede haber colinealidad entre las X_i pero no puede ser perfecta.
+- E(Y_i) = ... => B_k mide el cambio de E(Y_i) cuando X_k aumenta en una unidad manteniendo constante las demas variables
+
+Variables binarias significativas:
+- Metemos una variable binaria (dummy) que vale 1 si esta presente y 0 si no.
+	- Ejemplo: democ_A_i = 1 si A es democrata, 0 si es republicano
+- 0 es la categoria base
+
+Interaccion
+- no me genera otra ordenada al origen sino que cambia la pendiente de la recta
+- lo usas cuando pensas que hay una variable que no afecta igual a los dos grupos
